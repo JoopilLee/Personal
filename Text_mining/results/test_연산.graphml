@@ -1,0 +1,8464 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="count" attr.type="long"/>
+<graph edgedefault="undirected"><node id="관직">
+  <data key="d0">487</data>
+</node>
+<node id="제수">
+  <data key="d0">575</data>
+</node>
+<node id="태백성">
+  <data key="d0">21</data>
+</node>
+<node id="낮">
+  <data key="d0">17</data>
+</node>
+<node id="합사">
+  <data key="d0">166</data>
+</node>
+<node id="대간">
+  <data key="d0">723</data>
+</node>
+<node id="사직">
+  <data key="d0">337</data>
+</node>
+<node id="윤필상">
+  <data key="d0">470</data>
+</node>
+<node id="의논">
+  <data key="d0">758</data>
+</node>
+<node id="탕">
+  <data key="d0">147</data>
+</node>
+<node id="윤">
+  <data key="d0">385</data>
+</node>
+<node id="귀">
+  <data key="d0">243</data>
+</node>
+<node id="손">
+  <data key="d0">782</data>
+</node>
+<node id="강">
+  <data key="d0">397</data>
+</node>
+<node id="논계">
+  <data key="d0">271</data>
+</node>
+<node id="사당">
+  <data key="d0">91</data>
+</node>
+<node id="신주">
+  <data key="d0">99</data>
+</node>
+<node id="중국">
+  <data key="d0">355</data>
+</node>
+<node id="사신">
+  <data key="d0">292</data>
+</node>
+<node id="경연">
+  <data key="d0">335</data>
+</node>
+<node id="상참">
+  <data key="d0">23</data>
+</node>
+<node id="면포">
+  <data key="d0">230</data>
+</node>
+<node id="필">
+  <data key="d0">232</data>
+</node>
+<node id="대내">
+  <data key="d0">225</data>
+</node>
+<node id="노사신">
+  <data key="d0">308</data>
+</node>
+<node id="쌀">
+  <data key="d0">230</data>
+</node>
+<node id="석">
+  <data key="d0">137</data>
+</node>
+<node id="홍문관">
+  <data key="d0">411</data>
+</node>
+<node id="부제학">
+  <data key="d0">142</data>
+</node>
+<node id="곤장">
+  <data key="d0">165</data>
+</node>
+<node id="내관">
+  <data key="d0">458</data>
+</node>
+<node id="김순">
+  <data key="d0">89</data>
+</node>
+<node id="국문">
+  <data key="d0">995</data>
+</node>
+<node id="철거">
+  <data key="d0">195</data>
+</node>
+<node id="인가">
+  <data key="d0">132</data>
+</node>
+<node id="임">
+  <data key="d0">147</data>
+</node>
+<node id="숭">
+  <data key="d0">244</data>
+</node>
+<node id="사초">
+  <data key="d0">117</data>
+</node>
+<node id="사건">
+  <data key="d0">172</data>
+</node>
+<node id="복직">
+  <data key="d0">65</data>
+</node>
+<node id="내용">
+  <data key="d0">194</data>
+</node>
+<node id="공초">
+  <data key="d0">86</data>
+</node>
+<node id="정승">
+  <data key="d0">321</data>
+</node>
+<node id="상소">
+  <data key="d0">444</data>
+</node>
+<node id="민">
+  <data key="d0">188</data>
+</node>
+<node id="휘">
+  <data key="d0">102</data>
+</node>
+<node id="병조">
+  <data key="d0">374</data>
+</node>
+<node id="판서">
+  <data key="d0">276</data>
+</node>
+<node id="운평">
+  <data key="d0">288</data>
+</node>
+<node id="악">
+  <data key="d0">200</data>
+</node>
+<node id="죄">
+  <data key="d0">829</data>
+</node>
+<node id="월산">
+  <data key="d0">80</data>
+</node>
+<node id="대군">
+  <data key="d0">219</data>
+</node>
+<node id="야인">
+  <data key="d0">243</data>
+</node>
+<node id="본국">
+  <data key="d0">23</data>
+</node>
+<node id="토산물">
+  <data key="d0">74</data>
+</node>
+<node id="지평">
+  <data key="d0">414</data>
+</node>
+<node id="잔치">
+  <data key="d0">257</data>
+</node>
+<node id="대비">
+  <data key="d0">369</data>
+</node>
+<node id="박">
+  <data key="d0">256</data>
+</node>
+<node id="승지">
+  <data key="d0">696</data>
+</node>
+<node id="제용감">
+  <data key="d0">113</data>
+</node>
+<node id="탄핵">
+  <data key="d0">179</data>
+</node>
+<node id="마주">
+  <data key="d0">20</data>
+</node>
+<node id="논박">
+  <data key="d0">127</data>
+</node>
+<node id="죄수">
+  <data key="d0">130</data>
+</node>
+<node id="태">
+  <data key="d0">39</data>
+</node>
+<node id="동청">
+  <data key="d0">76</data>
+</node>
+<node id="례">
+  <data key="d0">95</data>
+</node>
+<node id="서계">
+  <data key="d0">280</data>
+</node>
+<node id="임사홍">
+  <data key="d0">233</data>
+</node>
+<node id="화답">
+  <data key="d0">50</data>
+</node>
+<node id="제시">
+  <data key="d0">102</data>
+</node>
+<node id="연말">
+  <data key="d0">90</data>
+</node>
+<node id="표">
+  <data key="d0">153</data>
+</node>
+<node id="돌">
+  <data key="d0">113</data>
+</node>
+<node id="강숙">
+  <data key="d0">70</data>
+</node>
+<node id="소금">
+  <data key="d0">61</data>
+</node>
+<node id="공급">
+  <data key="d0">49</data>
+</node>
+<node id="강혼">
+  <data key="d0">196</data>
+</node>
+<node id="정포">
+  <data key="d0">44</data>
+</node>
+<node id="정문">
+  <data key="d0">126</data>
+</node>
+<node id="강의">
+  <data key="d0">76</data>
+</node>
+<node id="김효">
+  <data key="d0">144</data>
+</node>
+<node id="장령">
+  <data key="d0">452</data>
+</node>
+<node id="조형">
+  <data key="d0">89</data>
+</node>
+<node id="김">
+  <data key="d0">526</data>
+</node>
+<node id="경천">
+  <data key="d0">8</data>
+</node>
+<node id="절">
+  <data key="d0">93</data>
+</node>
+<node id="건의">
+  <data key="d0">634</data>
+</node>
+<node id="김인">
+  <data key="d0">49</data>
+</node>
+<node id="봉보">
+  <data key="d0">42</data>
+</node>
+<node id="부인">
+  <data key="d0">96</data>
+</node>
+<node id="일본">
+  <data key="d0">44</data>
+</node>
+<node id="대낮">
+  <data key="d0">5</data>
+</node>
+<node id="처벌">
+  <data key="d0">471</data>
+</node>
+<node id="가흥">
+  <data key="d0">82</data>
+</node>
+<node id="청">
+  <data key="d0">373</data>
+</node>
+<node id="관원">
+  <data key="d0">349</data>
+</node>
+<node id="가자">
+  <data key="d0">124</data>
+</node>
+<node id="전교">
+  <data key="d0">902</data>
+</node>
+<node id="승정원">
+  <data key="d0">566</data>
+</node>
+<node id="자건">
+  <data key="d0">214</data>
+</node>
+<node id="이극균">
+  <data key="d0">381</data>
+</node>
+<node id="수사">
+  <data key="d0">320</data>
+</node>
+<node id="노비">
+  <data key="d0">252</data>
+</node>
+<node id="부당">
+  <data key="d0">322</data>
+</node>
+<node id="풍저창">
+  <data key="d0">32</data>
+</node>
+<node id="김영정">
+  <data key="d0">80</data>
+</node>
+<node id="대사헌">
+  <data key="d0">255</data>
+</node>
+<node id="천령">
+  <data key="d0">66</data>
+</node>
+<node id="치례">
+  <data key="d0">56</data>
+</node>
+<node id="성준">
+  <data key="d0">320</data>
+</node>
+<node id="돈">
+  <data key="d0">107</data>
+</node>
+<node id="잘못">
+  <data key="d0">214</data>
+</node>
+<node id="장리">
+  <data key="d0">58</data>
+</node>
+<node id="흠">
+  <data key="d0">85</data>
+</node>
+<node id="송">
+  <data key="d0">181</data>
+</node>
+<node id="홍">
+  <data key="d0">358</data>
+</node>
+<node id="백경">
+  <data key="d0">50</data>
+</node>
+<node id="물품">
+  <data key="d0">296</data>
+</node>
+<node id="하사">
+  <data key="d0">309</data>
+</node>
+<node id="권균">
+  <data key="d0">140</data>
+</node>
+<node id="어세겸">
+  <data key="d0">205</data>
+</node>
+<node id="장죄">
+  <data key="d0">147</data>
+</node>
+<node id="계평">
+  <data key="d0">59</data>
+</node>
+<node id="벌">
+  <data key="d0">112</data>
+</node>
+<node id="파직">
+  <data key="d0">147</data>
+</node>
+<node id="평안도">
+  <data key="d0">269</data>
+</node>
+<node id="절도사">
+  <data key="d0">216</data>
+</node>
+<node id="당직청">
+  <data key="d0">58</data>
+</node>
+<node id="하례">
+  <data key="d0">95</data>
+</node>
+<node id="백관">
+  <data key="d0">179</data>
+</node>
+<node id="광희">
+  <data key="d0">94</data>
+</node>
+<node id="송일">
+  <data key="d0">114</data>
+</node>
+<node id="관찰사">
+  <data key="d0">377</data>
+</node>
+<node id="이승건">
+  <data key="d0">78</data>
+</node>
+<node id="공신">
+  <data key="d0">94</data>
+</node>
+<node id="가계">
+  <data key="d0">49</data>
+</node>
+<node id="제신">
+  <data key="d0">59</data>
+</node>
+<node id="값">
+  <data key="d0">208</data>
+</node>
+<node id="진연">
+  <data key="d0">98</data>
+</node>
+<node id="왕">
+  <data key="d0">446</data>
+</node>
+<node id="대행">
+  <data key="d0">60</data>
+</node>
+<node id="구수영">
+  <data key="d0">102</data>
+</node>
+<node id="예조">
+  <data key="d0">385</data>
+</node>
+<node id="뇌">
+  <data key="d0">56</data>
+</node>
+<node id="영원">
+  <data key="d0">61</data>
+</node>
+<node id="유순">
+  <data key="d0">243</data>
+</node>
+<node id="영의정">
+  <data key="d0">183</data>
+</node>
+<node id="형신">
+  <data key="d0">140</data>
+</node>
+<node id="익명서">
+  <data key="d0">169</data>
+</node>
+<node id="권세">
+  <data key="d0">37</data>
+</node>
+<node id="간언">
+  <data key="d0">119</data>
+</node>
+<node id="한치형">
+  <data key="d0">218</data>
+</node>
+<node id="의금부">
+  <data key="d0">331</data>
+</node>
+<node id="재의">
+  <data key="d0">49</data>
+</node>
+<node id="성균관">
+  <data key="d0">168</data>
+</node>
+<node id="유생">
+  <data key="d0">237</data>
+</node>
+<node id="결채">
+  <data key="d0">76</data>
+</node>
+<node id="역">
+  <data key="d0">120</data>
+</node>
+<node id="진주">
+  <data key="d0">88</data>
+</node>
+<node id="경상도">
+  <data key="d0">219</data>
+</node>
+<node id="대궐">
+  <data key="d0">341</data>
+</node>
+<node id="호조">
+  <data key="d0">209</data>
+</node>
+<node id="심미">
+  <data key="d0">54</data>
+</node>
+<node id="옹">
+  <data key="d0">54</data>
+</node>
+<node id="지관">
+  <data key="d0">25</data>
+</node>
+<node id="의정부">
+  <data key="d0">441</data>
+</node>
+<node id="효증">
+  <data key="d0">61</data>
+</node>
+<node id="경기">
+  <data key="d0">196</data>
+</node>
+<node id="사냥">
+  <data key="d0">323</data>
+</node>
+<node id="개정">
+  <data key="d0">190</data>
+</node>
+<node id="심순">
+  <data key="d0">60</data>
+</node>
+<node id="문">
+  <data key="d0">310</data>
+</node>
+<node id="태수">
+  <data key="d0">17</data>
+</node>
+<node id="신승선">
+  <data key="d0">158</data>
+</node>
+<node id="유인">
+  <data key="d0">42</data>
+</node>
+<node id="제안">
+  <data key="d0">59</data>
+</node>
+<node id="사헌부">
+  <data key="d0">299</data>
+</node>
+<node id="정언">
+  <data key="d0">345</data>
+</node>
+<node id="조계">
+  <data key="d0">51</data>
+</node>
+<node id="흥">
+  <data key="d0">74</data>
+</node>
+<node id="윤효">
+  <data key="d0">51</data>
+</node>
+<node id="허침">
+  <data key="d0">99</data>
+</node>
+<node id="사섬시">
+  <data key="d0">69</data>
+</node>
+<node id="정환">
+  <data key="d0">50</data>
+</node>
+<node id="제급">
+  <data key="d0">93</data>
+</node>
+<node id="이효">
+  <data key="d0">53</data>
+</node>
+<node id="사간">
+  <data key="d0">158</data>
+</node>
+<node id="결">
+  <data key="d0">45</data>
+</node>
+<node id="이종호">
+  <data key="d0">46</data>
+</node>
+<node id="시">
+  <data key="d0">268</data>
+</node>
+<node id="공궤">
+  <data key="d0">122</data>
+</node>
+<node id="서극">
+  <data key="d0">26</data>
+</node>
+<node id="철">
+  <data key="d0">125</data>
+</node>
+<node id="신종">
+  <data key="d0">67</data>
+</node>
+<node id="수근">
+  <data key="d0">54</data>
+</node>
+<node id="비">
+  <data key="d0">118</data>
+</node>
+<node id="저사">
+  <data key="d0">83</data>
+</node>
+<node id="우의정">
+  <data key="d0">75</data>
+</node>
+<node id="허락">
+  <data key="d0">252</data>
+</node>
+<node id="탄">
+  <data key="d0">57</data>
+</node>
+<node id="재">
+  <data key="d0">84</data>
+</node>
+<node id="계종">
+  <data key="d0">55</data>
+</node>
+<node id="내전">
+  <data key="d0">62</data>
+</node>
+<node id="차자">
+  <data key="d0">101</data>
+</node>
+<node id="포">
+  <data key="d0">62</data>
+</node>
+<node id="잡역">
+  <data key="d0">51</data>
+</node>
+<node id="면제">
+  <data key="d0">100</data>
+</node>
+<node id="이점">
+  <data key="d0">80</data>
+</node>
+<node id="참판">
+  <data key="d0">151</data>
+</node>
+<node id="서방">
+  <data key="d0">50</data>
+</node>
+<node id="정벌">
+  <data key="d0">55</data>
+</node>
+<node id="유령">
+  <data key="d0">29</data>
+</node>
+<node id="방">
+  <data key="d0">108</data>
+</node>
+<node id="공">
+  <data key="d0">153</data>
+</node>
+<node id="일본국">
+  <data key="d0">72</data>
+</node>
+<node id="정원">
+  <data key="d0">129</data>
+</node>
+<node id="의심">
+  <data key="d0">65</data>
+</node>
+<node id="대사간">
+  <data key="d0">222</data>
+</node>
+<node id="효손">
+  <data key="d0">41</data>
+</node>
+<node id="위차">
+  <data key="d0">19</data>
+</node>
+<node id="좌의정">
+  <data key="d0">117</data>
+</node>
+<node id="제사">
+  <data key="d0">252</data>
+</node>
+<node id="대신">
+  <data key="d0">307</data>
+</node>
+<node id="최부">
+  <data key="d0">103</data>
+</node>
+<node id="여해">
+  <data key="d0">22</data>
+</node>
+<node id="자순">
+  <data key="d0">56</data>
+</node>
+<node id="왕대비">
+  <data key="d0">83</data>
+</node>
+<node id="이균">
+  <data key="d0">63</data>
+</node>
+<node id="응방">
+  <data key="d0">111</data>
+</node>
+<node id="겸">
+  <data key="d0">147</data>
+</node>
+<node id="전옥서">
+  <data key="d0">46</data>
+</node>
+<node id="대마도">
+  <data key="d0">25</data>
+</node>
+<node id="여부">
+  <data key="d0">160</data>
+</node>
+<node id="기인">
+  <data key="d0">33</data>
+</node>
+<node id="육조">
+  <data key="d0">78</data>
+</node>
+<node id="김일손">
+  <data key="d0">124</data>
+</node>
+<node id="소속">
+  <data key="d0">99</data>
+</node>
+<node id="이사">
+  <data key="d0">60</data>
+</node>
+<node id="조양">
+  <data key="d0">51</data>
+</node>
+<node id="고신">
+  <data key="d0">56</data>
+</node>
+<node id="사복시">
+  <data key="d0">123</data>
+</node>
+<node id="유자광">
+  <data key="d0">178</data>
+</node>
+<node id="차운">
+  <data key="d0">29</data>
+</node>
+<node id="자견">
+  <data key="d0">92</data>
+</node>
+<node id="숙근">
+  <data key="d0">30</data>
+</node>
+<node id="임금">
+  <data key="d0">188</data>
+</node>
+<node id="부관">
+  <data key="d0">52</data>
+</node>
+<node id="참시">
+  <data key="d0">41</data>
+</node>
+<node id="응룡">
+  <data key="d0">62</data>
+</node>
+<node id="첩">
+  <data key="d0">145</data>
+</node>
+<node id="이세좌">
+  <data key="d0">257</data>
+</node>
+<node id="불경">
+  <data key="d0">65</data>
+</node>
+<node id="김수동">
+  <data key="d0">123</data>
+</node>
+<node id="김감">
+  <data key="d0">190</data>
+</node>
+<node id="이병정">
+  <data key="d0">60</data>
+</node>
+<node id="각도">
+  <data key="d0">258</data>
+</node>
+<node id="태죄">
+  <data key="d0">22</data>
+</node>
+<node id="계경">
+  <data key="d0">25</data>
+</node>
+<node id="장흥">
+  <data key="d0">35</data>
+</node>
+<node id="신">
+  <data key="d0">123</data>
+</node>
+<node id="부역">
+  <data key="d0">77</data>
+</node>
+<node id="중미">
+  <data key="d0">34</data>
+</node>
+<node id="조참">
+  <data key="d0">42</data>
+</node>
+<node id="부부">
+  <data key="d0">28</data>
+</node>
+<node id="황량">
+  <data key="d0">16</data>
+</node>
+<node id="번개">
+  <data key="d0">41</data>
+</node>
+<node id="천둥">
+  <data key="d0">20</data>
+</node>
+<node id="호우">
+  <data key="d0">19</data>
+</node>
+<node id="병">
+  <data key="d0">212</data>
+</node>
+<node id="이원">
+  <data key="d0">63</data>
+</node>
+<node id="청풍군">
+  <data key="d0">34</data>
+</node>
+<node id="유교">
+  <data key="d0">34</data>
+</node>
+<node id="성종">
+  <data key="d0">192</data>
+</node>
+<node id="연방원">
+  <data key="d0">126</data>
+</node>
+<node id="김치원">
+  <data key="d0">42</data>
+</node>
+<node id="정침">
+  <data key="d0">64</data>
+</node>
+<node id="근처">
+  <data key="d0">87</data>
+</node>
+<node id="박유">
+  <data key="d0">28</data>
+</node>
+<node id="함경도">
+  <data key="d0">164</data>
+</node>
+<node id="좌">
+  <data key="d0">85</data>
+</node>
+<node id="견성">
+  <data key="d0">46</data>
+</node>
+<node id="사">
+  <data key="d0">119</data>
+</node>
+<node id="중지">
+  <data key="d0">87</data>
+</node>
+<node id="승복">
+  <data key="d0">37</data>
+</node>
+<node id="제조">
+  <data key="d0">286</data>
+</node>
+<node id="도감">
+  <data key="d0">126</data>
+</node>
+<node id="장성">
+  <data key="d0">73</data>
+</node>
+<node id="시가">
+  <data key="d0">67</data>
+</node>
+<node id="전향">
+  <data key="d0">43</data>
+</node>
+<node id="치계">
+  <data key="d0">122</data>
+</node>
+<node id="달선">
+  <data key="d0">38</data>
+</node>
+<node id="종묘">
+  <data key="d0">83</data>
+</node>
+<node id="사자">
+  <data key="d0">27</data>
+</node>
+<node id="박수원">
+  <data key="d0">9</data>
+</node>
+<node id="감독">
+  <data key="d0">143</data>
+</node>
+<node id="뇌성">
+  <data key="d0">35</data>
+</node>
+<node id="인정전">
+  <data key="d0">115</data>
+</node>
+<node id="간택">
+  <data key="d0">94</data>
+</node>
+<node id="조순">
+  <data key="d0">46</data>
+</node>
+<node id="심문">
+  <data key="d0">157</data>
+</node>
+<node id="감사">
+  <data key="d0">220</data>
+</node>
+<node id="윤채">
+  <data key="d0">48</data>
+</node>
+<node id="형제">
+  <data key="d0">111</data>
+</node>
+<node id="부모">
+  <data key="d0">177</data>
+</node>
+<node id="남">
+  <data key="d0">152</data>
+</node>
+<node id="치원">
+  <data key="d0">28</data>
+</node>
+<node id="율시">
+  <data key="d0">80</data>
+</node>
+<node id="천과">
+  <data key="d0">74</data>
+</node>
+<node id="흥청">
+  <data key="d0">256</data>
+</node>
+<node id="인사">
+  <data key="d0">92</data>
+</node>
+<node id="폐비">
+  <data key="d0">105</data>
+</node>
+<node id="효사">
+  <data key="d0">40</data>
+</node>
+<node id="묘">
+  <data key="d0">90</data>
+</node>
+<node id="견">
+  <data key="d0">61</data>
+</node>
+<node id="전지">
+  <data key="d0">129</data>
+</node>
+<node id="침">
+  <data key="d0">66</data>
+</node>
+<node id="논의">
+  <data key="d0">244</data>
+</node>
+<node id="유구">
+  <data key="d0">38</data>
+</node>
+<node id="강원도">
+  <data key="d0">79</data>
+</node>
+<node id="직제학">
+  <data key="d0">55</data>
+</node>
+<node id="족친">
+  <data key="d0">203</data>
+</node>
+<node id="김심">
+  <data key="d0">51</data>
+</node>
+<node id="남곤">
+  <data key="d0">58</data>
+</node>
+<node id="경변">
+  <data key="d0">42</data>
+</node>
+<node id="노공필">
+  <data key="d0">74</data>
+</node>
+<node id="입주">
+  <data key="d0">24</data>
+</node>
+<node id="입묘">
+  <data key="d0">34</data>
+</node>
+<node id="조옥">
+  <data key="d0">24</data>
+</node>
+<node id="죄인">
+  <data key="d0">270</data>
+</node>
+<node id="호초">
+  <data key="d0">33</data>
+</node>
+<node id="이극돈">
+  <data key="d0">131</data>
+</node>
+<node id="강목">
+  <data key="d0">50</data>
+</node>
+<node id="아내">
+  <data key="d0">190</data>
+</node>
+<node id="군사">
+  <data key="d0">272</data>
+</node>
+<node id="콩">
+  <data key="d0">31</data>
+</node>
+<node id="정인">
+  <data key="d0">82</data>
+</node>
+<node id="진상">
+  <data key="d0">235</data>
+</node>
+<node id="용서">
+  <data key="d0">104</data>
+</node>
+<node id="익성">
+  <data key="d0">6</data>
+</node>
+<node id="채수">
+  <data key="d0">64</data>
+</node>
+<node id="수리">
+  <data key="d0">82</data>
+</node>
+<node id="경복궁">
+  <data key="d0">113</data>
+</node>
+<node id="수군">
+  <data key="d0">69</data>
+</node>
+<node id="수주">
+  <data key="d0">20</data>
+</node>
+<node id="밤">
+  <data key="d0">136</data>
+</node>
+<node id="부정">
+  <data key="d0">127</data>
+</node>
+<node id="사종">
+  <data key="d0">31</data>
+</node>
+<node id="면">
+  <data key="d0">14</data>
+</node>
+<node id="가함">
+  <data key="d0">176</data>
+</node>
+<node id="이조">
+  <data key="d0">84</data>
+</node>
+<node id="연루">
+  <data key="d0">55</data>
+</node>
+<node id="금표">
+  <data key="d0">286</data>
+</node>
+<node id="선공감">
+  <data key="d0">50</data>
+</node>
+<node id="접대">
+  <data key="d0">34</data>
+</node>
+<node id="본궁">
+  <data key="d0">13</data>
+</node>
+<node id="김응기">
+  <data key="d0">116</data>
+</node>
+<node id="김종직">
+  <data key="d0">79</data>
+</node>
+<node id="기록">
+  <data key="d0">113</data>
+</node>
+<node id="충군">
+  <data key="d0">56</data>
+</node>
+<node id="멥쌀">
+  <data key="d0">16</data>
+</node>
+<node id="생원">
+  <data key="d0">86</data>
+</node>
+<node id="신수근">
+  <data key="d0">168</data>
+</node>
+<node id="충인">
+  <data key="d0">39</data>
+</node>
+<node id="목사">
+  <data key="d0">122</data>
+</node>
+<node id="제주">
+  <data key="d0">101</data>
+</node>
+<node id="박처">
+  <data key="d0">59</data>
+</node>
+<node id="처">
+  <data key="d0">142</data>
+</node>
+<node id="빈전">
+  <data key="d0">64</data>
+</node>
+<node id="진향">
+  <data key="d0">68</data>
+</node>
+<node id="동철">
+  <data key="d0">47</data>
+</node>
+<node id="무역">
+  <data key="d0">120</data>
+</node>
+<node id="절구">
+  <data key="d0">45</data>
+</node>
+<node id="삼복">
+  <data key="d0">42</data>
+</node>
+<node id="계동">
+  <data key="d0">144</data>
+</node>
+<node id="술">
+  <data key="d0">156</data>
+</node>
+<node id="풍악">
+  <data key="d0">71</data>
+</node>
+<node id="칠언">
+  <data key="d0">29</data>
+</node>
+<node id="부">
+  <data key="d0">93</data>
+</node>
+<node id="외지">
+  <data key="d0">18</data>
+</node>
+<node id="복세">
+  <data key="d0">13</data>
+</node>
+<node id="암">
+  <data key="d0">16</data>
+</node>
+<node id="상차">
+  <data key="d0">100</data>
+</node>
+<node id="망궐례">
+  <data key="d0">23</data>
+</node>
+<node id="입거">
+  <data key="d0">80</data>
+</node>
+<node id="박열">
+  <data key="d0">104</data>
+</node>
+<node id="사학">
+  <data key="d0">25</data>
+</node>
+<node id="한훈">
+  <data key="d0">58</data>
+</node>
+<node id="용도">
+  <data key="d0">34</data>
+</node>
+<node id="절약">
+  <data key="d0">44</data>
+</node>
+<node id="거둥">
+  <data key="d0">139</data>
+</node>
+<node id="장단">
+  <data key="d0">47</data>
+</node>
+<node id="성세">
+  <data key="d0">37</data>
+</node>
+<node id="순">
+  <data key="d0">86</data>
+</node>
+<node id="양희">
+  <data key="d0">72</data>
+</node>
+<node id="왕후">
+  <data key="d0">127</data>
+</node>
+<node id="이극배">
+  <data key="d0">61</data>
+</node>
+<node id="도승지">
+  <data key="d0">130</data>
+</node>
+<node id="연굴">
+  <data key="d0">20</data>
+</node>
+<node id="재와">
+  <data key="d0">26</data>
+</node>
+<node id="탄일">
+  <data key="d0">40</data>
+</node>
+<node id="홍윤덕">
+  <data key="d0">32</data>
+</node>
+<node id="창건">
+  <data key="d0">47</data>
+</node>
+<node id="뜻">
+  <data key="d0">142</data>
+</node>
+<node id="주금">
+  <data key="d0">29</data>
+</node>
+<node id="봉진">
+  <data key="d0">90</data>
+</node>
+<node id="나례">
+  <data key="d0">49</data>
+</node>
+<node id="구경">
+  <data key="d0">114</data>
+</node>
+<node id="변명">
+  <data key="d0">114</data>
+</node>
+<node id="덕">
+  <data key="d0">86</data>
+</node>
+<node id="연좌">
+  <data key="d0">112</data>
+</node>
+<node id="거행">
+  <data key="d0">129</data>
+</node>
+<node id="이세인">
+  <data key="d0">57</data>
+</node>
+<node id="곡연">
+  <data key="d0">49</data>
+</node>
+<node id="무과">
+  <data key="d0">50</data>
+</node>
+<node id="정지">
+  <data key="d0">219</data>
+</node>
+<node id="관사">
+  <data key="d0">68</data>
+</node>
+<node id="이극">
+  <data key="d0">27</data>
+</node>
+<node id="규">
+  <data key="d0">39</data>
+</node>
+<node id="최해">
+  <data key="d0">27</data>
+</node>
+<node id="법">
+  <data key="d0">187</data>
+</node>
+<node id="충청도">
+  <data key="d0">85</data>
+</node>
+<node id="지진">
+  <data key="d0">70</data>
+</node>
+<node id="경서">
+  <data key="d0">63</data>
+</node>
+<node id="금">
+  <data key="d0">146</data>
+</node>
+<node id="등지">
+  <data key="d0">133</data>
+</node>
+<node id="허정">
+  <data key="d0">27</data>
+</node>
+<node id="장악원">
+  <data key="d0">86</data>
+</node>
+<node id="체아">
+  <data key="d0">31</data>
+</node>
+<node id="왜적">
+  <data key="d0">86</data>
+</node>
+<node id="언로">
+  <data key="d0">78</data>
+</node>
+<node id="잡인">
+  <data key="d0">70</data>
+</node>
+<node id="출입">
+  <data key="d0">96</data>
+</node>
+<node id="담">
+  <data key="d0">122</data>
+</node>
+<node id="정역">
+  <data key="d0">43</data>
+</node>
+<node id="박원종">
+  <data key="d0">107</data>
+</node>
+<node id="청악">
+  <data key="d0">183</data>
+</node>
+<node id="안윤">
+  <data key="d0">37</data>
+</node>
+<node id="윤대">
+  <data key="d0">28</data>
+</node>
+<node id="통감강목">
+  <data key="d0">14</data>
+</node>
+<node id="공양">
+  <data key="d0">13</data>
+</node>
+<node id="부처">
+  <data key="d0">50</data>
+</node>
+<node id="우윤">
+  <data key="d0">54</data>
+</node>
+<node id="한성부">
+  <data key="d0">121</data>
+</node>
+<node id="조하">
+  <data key="d0">37</data>
+</node>
+<node id="의무">
+  <data key="d0">71</data>
+</node>
+<node id="조의제문">
+  <data key="d0">21</data>
+</node>
+<node id="관리">
+  <data key="d0">113</data>
+</node>
+<node id="실록">
+  <data key="d0">52</data>
+</node>
+<node id="조호">
+  <data key="d0">13</data>
+</node>
+<node id="남천">
+  <data key="d0">30</data>
+</node>
+<node id="군">
+  <data key="d0">200</data>
+</node>
+<node id="금주">
+  <data key="d0">26</data>
+</node>
+<node id="령">
+  <data key="d0">81</data>
+</node>
+<node id="인수">
+  <data key="d0">35</data>
+</node>
+<node id="김영진">
+  <data key="d0">16</data>
+</node>
+<node id="신하">
+  <data key="d0">149</data>
+</node>
+<node id="병마">
+  <data key="d0">29</data>
+</node>
+<node id="성세명">
+  <data key="d0">84</data>
+</node>
+<node id="아들">
+  <data key="d0">195</data>
+</node>
+<node id="혜">
+  <data key="d0">71</data>
+</node>
+<node id="서용">
+  <data key="d0">173</data>
+</node>
+<node id="속호">
+  <data key="d0">14</data>
+</node>
+<node id="이세준">
+  <data key="d0">34</data>
+</node>
+<node id="홍귀달">
+  <data key="d0">156</data>
+</node>
+<node id="율">
+  <data key="d0">99</data>
+</node>
+<node id="왜인">
+  <data key="d0">132</data>
+</node>
+<node id="이유">
+  <data key="d0">136</data>
+</node>
+<node id="처리">
+  <data key="d0">131</data>
+</node>
+<node id="전라도">
+  <data key="d0">188</data>
+</node>
+<node id="성현">
+  <data key="d0">102</data>
+</node>
+<node id="신준">
+  <data key="d0">40</data>
+</node>
+<node id="신복">
+  <data key="d0">37</data>
+</node>
+<node id="사열">
+  <data key="d0">35</data>
+</node>
+<node id="조윤">
+  <data key="d0">13</data>
+</node>
+<node id="취">
+  <data key="d0">28</data>
+</node>
+<node id="춘원">
+  <data key="d0">27</data>
+</node>
+<node id="변방">
+  <data key="d0">152</data>
+</node>
+<node id="수령">
+  <data key="d0">241</data>
+</node>
+<node id="종친">
+  <data key="d0">155</data>
+</node>
+<node id="승진">
+  <data key="d0">138</data>
+</node>
+<node id="전헌">
+  <data key="d0">21</data>
+</node>
+<node id="불법">
+  <data key="d0">71</data>
+</node>
+<node id="침범">
+  <data key="d0">51</data>
+</node>
+<node id="자아">
+  <data key="d0">23</data>
+</node>
+<node id="섬">
+  <data key="d0">63</data>
+</node>
+<node id="례의">
+  <data key="d0">9</data>
+</node>
+<node id="장순손">
+  <data key="d0">88</data>
+</node>
+<node id="목책">
+  <data key="d0">21</data>
+</node>
+<node id="설치">
+  <data key="d0">232</data>
+</node>
+<node id="상납">
+  <data key="d0">34</data>
+</node>
+<node id="대왕">
+  <data key="d0">46</data>
+</node>
+<node id="사도시">
+  <data key="d0">5</data>
+</node>
+<node id="당상">
+  <data key="d0">182</data>
+</node>
+<node id="궁중">
+  <data key="d0">71</data>
+</node>
+<node id="누설">
+  <data key="d0">93</data>
+</node>
+<node id="이장곤">
+  <data key="d0">42</data>
+</node>
+<node id="능">
+  <data key="d0">60</data>
+</node>
+<node id="참배">
+  <data key="d0">60</data>
+</node>
+<node id="숙용">
+  <data key="d0">126</data>
+</node>
+<node id="모화관">
+  <data key="d0">42</data>
+</node>
+<node id="시험">
+  <data key="d0">113</data>
+</node>
+<node id="근">
+  <data key="d0">107</data>
+</node>
+<node id="조신">
+  <data key="d0">30</data>
+</node>
+<node id="재상">
+  <data key="d0">175</data>
+</node>
+<node id="정숭조">
+  <data key="d0">84</data>
+</node>
+<node id="김인후">
+  <data key="d0">24</data>
+</node>
+<node id="강삼">
+  <data key="d0">29</data>
+</node>
+<node id="수공">
+  <data key="d0">46</data>
+</node>
+<node id="사간원">
+  <data key="d0">143</data>
+</node>
+<node id="경계">
+  <data key="d0">95</data>
+</node>
+<node id="하늘">
+  <data key="d0">52</data>
+</node>
+<node id="문치">
+  <data key="d0">28</data>
+</node>
+<node id="조지서">
+  <data key="d0">64</data>
+</node>
+<node id="우도">
+  <data key="d0">34</data>
+</node>
+<node id="경상">
+  <data key="d0">81</data>
+</node>
+<node id="유배">
+  <data key="d0">124</data>
+</node>
+<node id="통행">
+  <data key="d0">66</data>
+</node>
+<node id="금지">
+  <data key="d0">152</data>
+</node>
+<node id="정성근">
+  <data key="d0">56</data>
+</node>
+<node id="배척">
+  <data key="d0">25</data>
+</node>
+<node id="불교">
+  <data key="d0">78</data>
+</node>
+<node id="신수">
+  <data key="d0">29</data>
+</node>
+<node id="물건">
+  <data key="d0">187</data>
+</node>
+<node id="팽">
+  <data key="d0">28</data>
+</node>
+<node id="동의">
+  <data key="d0">59</data>
+</node>
+<node id="월령">
+  <data key="d0">24</data>
+</node>
+<node id="김수">
+  <data key="d0">22</data>
+</node>
+<node id="간관">
+  <data key="d0">101</data>
+</node>
+<node id="한충">
+  <data key="d0">42</data>
+</node>
+<node id="형조">
+  <data key="d0">141</data>
+</node>
+<node id="상고">
+  <data key="d0">241</data>
+</node>
+<node id="권주">
+  <data key="d0">103</data>
+</node>
+<node id="취인">
+  <data key="d0">16</data>
+</node>
+<node id="처사">
+  <data key="d0">45</data>
+</node>
+<node id="능지">
+  <data key="d0">73</data>
+</node>
+<node id="건주위">
+  <data key="d0">19</data>
+</node>
+<node id="임명">
+  <data key="d0">174</data>
+</node>
+<node id="이계남">
+  <data key="d0">87</data>
+</node>
+<node id="팔">
+  <data key="d0">36</data>
+</node>
+<node id="난신">
+  <data key="d0">49</data>
+</node>
+<node id="방문">
+  <data key="d0">10</data>
+</node>
+<node id="사면">
+  <data key="d0">143</data>
+</node>
+<node id="충">
+  <data key="d0">57</data>
+</node>
+<node id="하옥">
+  <data key="d0">36</data>
+</node>
+<node id="세자">
+  <data key="d0">91</data>
+</node>
+<node id="책봉">
+  <data key="d0">28</data>
+</node>
+<node id="양보">
+  <data key="d0">17</data>
+</node>
+<node id="극회">
+  <data key="d0">17</data>
+</node>
+<node id="별감">
+  <data key="d0">84</data>
+</node>
+<node id="헌">
+  <data key="d0">45</data>
+</node>
+<node id="권">
+  <data key="d0">111</data>
+</node>
+<node id="응교">
+  <data key="d0">34</data>
+</node>
+<node id="수영">
+  <data key="d0">70</data>
+</node>
+<node id="송사">
+  <data key="d0">96</data>
+</node>
+<node id="백성">
+  <data key="d0">160</data>
+</node>
+<node id="구휼">
+  <data key="d0">54</data>
+</node>
+<node id="증명서">
+  <data key="d0">12</data>
+</node>
+<node id="절목">
+  <data key="d0">74</data>
+</node>
+<node id="마련">
+  <data key="d0">101</data>
+</node>
+<node id="관련자">
+  <data key="d0">27</data>
+</node>
+<node id="강학">
+  <data key="d0">20</data>
+</node>
+<node id="구역">
+  <data key="d0">13</data>
+</node>
+<node id="몸">
+  <data key="d0">35</data>
+</node>
+<node id="윤은보">
+  <data key="d0">40</data>
+</node>
+<node id="이속">
+  <data key="d0">28</data>
+</node>
+<node id="졸기">
+  <data key="d0">106</data>
+</node>
+<node id="부원군">
+  <data key="d0">54</data>
+</node>
+<node id="안침">
+  <data key="d0">95</data>
+</node>
+<node id="총">
+  <data key="d0">26</data>
+</node>
+<node id="풍정">
+  <data key="d0">29</data>
+</node>
+<node id="최진">
+  <data key="d0">41</data>
+</node>
+<node id="우박">
+  <data key="d0">61</data>
+</node>
+<node id="양곡">
+  <data key="d0">33</data>
+</node>
+<node id="참여">
+  <data key="d0">69</data>
+</node>
+<node id="국장">
+  <data key="d0">37</data>
+</node>
+<node id="리">
+  <data key="d0">24</data>
+</node>
+<node id="판윤">
+  <data key="d0">35</data>
+</node>
+<node id="소목">
+  <data key="d0">17</data>
+</node>
+<node id="권경희">
+  <data key="d0">46</data>
+</node>
+<node id="힐책">
+  <data key="d0">46</data>
+</node>
+<node id="산">
+  <data key="d0">130</data>
+</node>
+<node id="만세">
+  <data key="d0">22</data>
+</node>
+<node id="재주">
+  <data key="d0">76</data>
+</node>
+<node id="직첩">
+  <data key="d0">77</data>
+</node>
+<node id="말기">
+  <data key="d0">60</data>
+</node>
+<node id="베">
+  <data key="d0">45</data>
+</node>
+<node id="후원">
+  <data key="d0">97</data>
+</node>
+<node id="활쏘기">
+  <data key="d0">60</data>
+</node>
+<node id="이봉">
+  <data key="d0">43</data>
+</node>
+<node id="이항">
+  <data key="d0">63</data>
+</node>
+<node id="서울">
+  <data key="d0">99</data>
+</node>
+<node id="활">
+  <data key="d0">83</data>
+</node>
+<node id="외척">
+  <data key="d0">70</data>
+</node>
+<node id="추국">
+  <data key="d0">170</data>
+</node>
+<node id="홍백">
+  <data key="d0">22</data>
+</node>
+<node id="결장">
+  <data key="d0">48</data>
+</node>
+<node id="감시">
+  <data key="d0">52</data>
+</node>
+<node id="번역">
+  <data key="d0">17</data>
+</node>
+<node id="언문">
+  <data key="d0">29</data>
+</node>
+<node id="서쪽">
+  <data key="d0">69</data>
+</node>
+<node id="길">
+  <data key="d0">145</data>
+</node>
+<node id="상피">
+  <data key="d0">49</data>
+</node>
+<node id="부자">
+  <data key="d0">42</data>
+</node>
+<node id="정미수">
+  <data key="d0">113</data>
+</node>
+<node id="돈녕">
+  <data key="d0">36</data>
+</node>
+<node id="부사">
+  <data key="d0">139</data>
+</node>
+<node id="사찰">
+  <data key="d0">79</data>
+</node>
+<node id="홍한">
+  <data key="d0">38</data>
+</node>
+<node id="복의">
+  <data key="d0">21</data>
+</node>
+<node id="허집">
+  <data key="d0">57</data>
+</node>
+<node id="변경">
+  <data key="d0">68</data>
+</node>
+<node id="무명">
+  <data key="d0">22</data>
+</node>
+<node id="영안">
+  <data key="d0">53</data>
+</node>
+<node id="밑">
+  <data key="d0">49</data>
+</node>
+<node id="곤이">
+  <data key="d0">14</data>
+</node>
+<node id="이맥">
+  <data key="d0">38</data>
+</node>
+<node id="유시">
+  <data key="d0">61</data>
+</node>
+<node id="문소전">
+  <data key="d0">44</data>
+</node>
+<node id="이철">
+  <data key="d0">43</data>
+</node>
+<node id="이세걸">
+  <data key="d0">28</data>
+</node>
+<node id="백저포">
+  <data key="d0">13</data>
+</node>
+<node id="방비">
+  <data key="d0">96</data>
+</node>
+<node id="잉태">
+  <data key="d0">50</data>
+</node>
+<node id="천거">
+  <data key="d0">71</data>
+</node>
+<node id="참석">
+  <data key="d0">58</data>
+</node>
+<node id="봉교">
+  <data key="d0">27</data>
+</node>
+<node id="예문관">
+  <data key="d0">79</data>
+</node>
+<node id="전례">
+  <data key="d0">122</data>
+</node>
+<node id="조정">
+  <data key="d0">99</data>
+</node>
+<node id="사관">
+  <data key="d0">84</data>
+</node>
+<node id="논쟁">
+  <data key="d0">28</data>
+</node>
+<node id="축하">
+  <data key="d0">58</data>
+</node>
+<node id="서제">
+  <data key="d0">22</data>
+</node>
+<node id="북경">
+  <data key="d0">55</data>
+</node>
+<node id="동지중추부사">
+  <data key="d0">62</data>
+</node>
+<node id="제도">
+  <data key="d0">75</data>
+</node>
+<node id="궐내">
+  <data key="d0">72</data>
+</node>
+<node id="윤호">
+  <data key="d0">68</data>
+</node>
+<node id="처단">
+  <data key="d0">30</data>
+</node>
+<node id="성절">
+  <data key="d0">28</data>
+</node>
+<node id="헌신">
+  <data key="d0">25</data>
+</node>
+<node id="제기">
+  <data key="d0">16</data>
+</node>
+<node id="접견">
+  <data key="d0">26</data>
+</node>
+<node id="쟁">
+  <data key="d0">24</data>
+</node>
+<node id="이세영">
+  <data key="d0">57</data>
+</node>
+<node id="감찰">
+  <data key="d0">105</data>
+</node>
+<node id="숙생">
+  <data key="d0">67</data>
+</node>
+<node id="헌납">
+  <data key="d0">76</data>
+</node>
+<node id="정청">
+  <data key="d0">37</data>
+</node>
+<node id="상">
+  <data key="d0">231</data>
+</node>
+<node id="사문">
+  <data key="d0">47</data>
+</node>
+<node id="이육">
+  <data key="d0">23</data>
+</node>
+<node id="시강관">
+  <data key="d0">40</data>
+</node>
+<node id="기생">
+  <data key="d0">66</data>
+</node>
+<node id="나뭇갓">
+  <data key="d0">38</data>
+</node>
+<node id="문집">
+  <data key="d0">22</data>
+</node>
+<node id="영응">
+  <data key="d0">32</data>
+</node>
+<node id="형장">
+  <data key="d0">52</data>
+</node>
+<node id="동교">
+  <data key="d0">9</data>
+</node>
+<node id="농사">
+  <data key="d0">59</data>
+</node>
+<node id="정창손">
+  <data key="d0">19</data>
+</node>
+<node id="명회">
+  <data key="d0">22</data>
+</node>
+<node id="책">
+  <data key="d0">118</data>
+</node>
+<node id="아비">
+  <data key="d0">170</data>
+</node>
+<node id="내시">
+  <data key="d0">94</data>
+</node>
+<node id="백면포">
+  <data key="d0">16</data>
+</node>
+<node id="서온">
+  <data key="d0">17</data>
+</node>
+<node id="상의원">
+  <data key="d0">96</data>
+</node>
+<node id="승하">
+  <data key="d0">23</data>
+</node>
+<node id="박건">
+  <data key="d0">56</data>
+</node>
+<node id="공안">
+  <data key="d0">20</data>
+</node>
+<node id="손세">
+  <data key="d0">19</data>
+</node>
+<node id="불충">
+  <data key="d0">19</data>
+</node>
+<node id="논핵">
+  <data key="d0">50</data>
+</node>
+<node id="체아직">
+  <data key="d0">45</data>
+</node>
+<node id="곤">
+  <data key="d0">47</data>
+</node>
+<node id="개성부">
+  <data key="d0">93</data>
+</node>
+<node id="반포">
+  <data key="d0">47</data>
+</node>
+<node id="응현">
+  <data key="d0">54</data>
+</node>
+<node id="지아비">
+  <data key="d0">64</data>
+</node>
+<node id="비호">
+  <data key="d0">32</data>
+</node>
+<node id="탄생">
+  <data key="d0">16</data>
+</node>
+<node id="원자">
+  <data key="d0">42</data>
+</node>
+<node id="고을">
+  <data key="d0">138</data>
+</node>
+<node id="불가">
+  <data key="d0">107</data>
+</node>
+<node id="창녕">
+  <data key="d0">14</data>
+</node>
+<node id="무례">
+  <data key="d0">46</data>
+</node>
+<node id="피혐">
+  <data key="d0">49</data>
+</node>
+<node id="납">
+  <data key="d0">84</data>
+</node>
+<node id="핑계">
+  <data key="d0">52</data>
+</node>
+<node id="적장">
+  <data key="d0">11</data>
+</node>
+<node id="국왕">
+  <data key="d0">26</data>
+</node>
+<node id="어소">
+  <data key="d0">27</data>
+</node>
+<node id="대마">
+  <data key="d0">17</data>
+</node>
+<node id="도주">
+  <data key="d0">25</data>
+</node>
+<node id="권인">
+  <data key="d0">23</data>
+</node>
+<node id="배향">
+  <data key="d0">15</data>
+</node>
+<node id="이목">
+  <data key="d0">31</data>
+</node>
+<node id="밀위청">
+  <data key="d0">66</data>
+</node>
+<node id="주악">
+  <data key="d0">37</data>
+</node>
+<node id="연루자">
+  <data key="d0">20</data>
+</node>
+<node id="북">
+  <data key="d0">38</data>
+</node>
+<node id="여원">
+  <data key="d0">36</data>
+</node>
+<node id="직책">
+  <data key="d0">48</data>
+</node>
+<node id="홍문">
+  <data key="d0">37</data>
+</node>
+<node id="거짓">
+  <data key="d0">54</data>
+</node>
+<node id="문안">
+  <data key="d0">66</data>
+</node>
+<node id="건립">
+  <data key="d0">26</data>
+</node>
+<node id="품">
+  <data key="d0">98</data>
+</node>
+<node id="해">
+  <data key="d0">95</data>
+</node>
+<node id="쇄환">
+  <data key="d0">55</data>
+</node>
+<node id="견이">
+  <data key="d0">16</data>
+</node>
+<node id="옥사">
+  <data key="d0">38</data>
+</node>
+<node id="식">
+  <data key="d0">18</data>
+</node>
+<node id="석필">
+  <data key="d0">19</data>
+</node>
+<node id="인재">
+  <data key="d0">44</data>
+</node>
+<node id="등용">
+  <data key="d0">68</data>
+</node>
+<node id="인">
+  <data key="d0">208</data>
+</node>
+<node id="윤순">
+  <data key="d0">42</data>
+</node>
+<node id="격론">
+  <data key="d0">9</data>
+</node>
+<node id="김경조">
+  <data key="d0">30</data>
+</node>
+<node id="시사">
+  <data key="d0">47</data>
+</node>
+<node id="비방">
+  <data key="d0">36</data>
+</node>
+<node id="귀양">
+  <data key="d0">71</data>
+</node>
+<node id="기상">
+  <data key="d0">26</data>
+</node>
+<node id="이변">
+  <data key="d0">28</data>
+</node>
+<node id="궁궐">
+  <data key="d0">60</data>
+</node>
+<node id="간통">
+  <data key="d0">92</data>
+</node>
+<node id="징수">
+  <data key="d0">46</data>
+</node>
+<node id="영소">
+  <data key="d0">13</data>
+</node>
+<node id="갱미">
+  <data key="d0">4</data>
+</node>
+<node id="장치">
+  <data key="d0">21</data>
+</node>
+<node id="친족">
+  <data key="d0">84</data>
+</node>
+<node id="평">
+  <data key="d0">56</data>
+</node>
+<node id="숙기">
+  <data key="d0">28</data>
+</node>
+<node id="성터">
+  <data key="d0">8</data>
+</node>
+<node id="무신">
+  <data key="d0">57</data>
+</node>
+<node id="비난">
+  <data key="d0">46</data>
+</node>
+<node id="안윤덕">
+  <data key="d0">66</data>
+</node>
+<node id="경회루">
+  <data key="d0">94</data>
+</node>
+<node id="천재">
+  <data key="d0">22</data>
+</node>
+<node id="지변">
+  <data key="d0">19</data>
+</node>
+<node id="시위">
+  <data key="d0">87</data>
+</node>
+<node id="딸">
+  <data key="d0">106</data>
+</node>
+<node id="정진">
+  <data key="d0">32</data>
+</node>
+<node id="석보">
+  <data key="d0">11</data>
+</node>
+<node id="경창">
+  <data key="d0">27</data>
+</node>
+<node id="제포">
+  <data key="d0">22</data>
+</node>
+<node id="관람">
+  <data key="d0">29</data>
+</node>
+<node id="련">
+  <data key="d0">19</data>
+</node>
+<node id="김두">
+  <data key="d0">11</data>
+</node>
+<node id="탐오">
+  <data key="d0">27</data>
+</node>
+<node id="숙마">
+  <data key="d0">9</data>
+</node>
+<node id="논란">
+  <data key="d0">51</data>
+</node>
+<node id="시호">
+  <data key="d0">67</data>
+</node>
+<node id="교리">
+  <data key="d0">25</data>
+</node>
+<node id="원위">
+  <data key="d0">18</data>
+</node>
+<node id="풍">
+  <data key="d0">39</data>
+</node>
+<node id="사정">
+  <data key="d0">87</data>
+</node>
+<node id="상복">
+  <data key="d0">74</data>
+</node>
+<node id="조유">
+  <data key="d0">27</data>
+</node>
+<node id="배정">
+  <data key="d0">52</data>
+</node>
+<node id="군대">
+  <data key="d0">24</data>
+</node>
+<node id="이인형">
+  <data key="d0">36</data>
+</node>
+<node id="서득">
+  <data key="d0">9</data>
+</node>
+<node id="관">
+  <data key="d0">94</data>
+</node>
+<node id="이창신">
+  <data key="d0">63</data>
+</node>
+<node id="묘제">
+  <data key="d0">21</data>
+</node>
+<node id="의원">
+  <data key="d0">78</data>
+</node>
+<node id="곡림">
+  <data key="d0">29</data>
+</node>
+<node id="이승원">
+  <data key="d0">18</data>
+</node>
+<node id="아차산">
+  <data key="d0">17</data>
+</node>
+<node id="동지">
+  <data key="d0">35</data>
+</node>
+<node id="윤희">
+  <data key="d0">25</data>
+</node>
+<node id="김언">
+  <data key="d0">22</data>
+</node>
+<node id="임유">
+  <data key="d0">18</data>
+</node>
+<node id="영">
+  <data key="d0">80</data>
+</node>
+<node id="사전">
+  <data key="d0">30</data>
+</node>
+<node id="포상">
+  <data key="d0">42</data>
+</node>
+<node id="정광">
+  <data key="d0">30</data>
+</node>
+<node id="전라">
+  <data key="d0">64</data>
+</node>
+<node id="균">
+  <data key="d0">26</data>
+</node>
+<node id="다홍">
+  <data key="d0">22</data>
+</node>
+<node id="서수진">
+  <data key="d0">16</data>
+</node>
+<node id="조원기">
+  <data key="d0">45</data>
+</node>
+<node id="유성">
+  <data key="d0">27</data>
+</node>
+<node id="천희">
+  <data key="d0">18</data>
+</node>
+<node id="입직">
+  <data key="d0">33</data>
+</node>
+<node id="햇무리">
+  <data key="d0">16</data>
+</node>
+<node id="관계">
+  <data key="d0">156</data>
+</node>
+<node id="김석철">
+  <data key="d0">15</data>
+</node>
+<node id="김윤제">
+  <data key="d0">30</data>
+</node>
+<node id="고발">
+  <data key="d0">83</data>
+</node>
+<node id="성">
+  <data key="d0">200</data>
+</node>
+<node id="김자원">
+  <data key="d0">24</data>
+</node>
+<node id="곡식">
+  <data key="d0">99</data>
+</node>
+<node id="지중추부사">
+  <data key="d0">18</data>
+</node>
+<node id="김준">
+  <data key="d0">15</data>
+</node>
+<node id="확">
+  <data key="d0">21</data>
+</node>
+<node id="설충">
+  <data key="d0">8</data>
+</node>
+<node id="재산">
+  <data key="d0">30</data>
+</node>
+<node id="적몰">
+  <data key="d0">34</data>
+</node>
+<node id="사임">
+  <data key="d0">39</data>
+</node>
+<node id="부수">
+  <data key="d0">27</data>
+</node>
+<node id="경양">
+  <data key="d0">26</data>
+</node>
+<node id="갈기">
+  <data key="d0">50</data>
+</node>
+<node id="비밀">
+  <data key="d0">36</data>
+</node>
+<node id="간원">
+  <data key="d0">45</data>
+</node>
+<node id="안전">
+  <data key="d0">18</data>
+</node>
+<node id="폐지">
+  <data key="d0">69</data>
+</node>
+<edge source="관직" target="제수">
+  <data key="d1">253.0</data>
+</edge>
+<edge source="관직" target="손">
+  <data key="d1">48.0</data>
+</edge>
+<edge source="관직" target="부당">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="관직" target="강">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="관직" target="귀">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="관직" target="홍">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="관직" target="장령">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="관직" target="유순">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="관직" target="김수동">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="관직" target="김">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="관직" target="숭">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="관직" target="지평">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="관직" target="윤">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="관직" target="노공필">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="관직" target="김응기">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="관직" target="이극균">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="관직" target="김감">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="관직" target="윤효">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="관직" target="한치형">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="관직" target="민">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="관직" target="홍귀달">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="관직" target="박열">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="관직" target="정언">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="관직" target="신준">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="관직" target="송일">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="관직" target="성현">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="관직" target="임">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="관직" target="치원">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관직" target="자건">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관직" target="송">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관직" target="건의">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관직" target="안침">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관직" target="허침">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관직" target="정미수">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관직" target="성준">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관직" target="박">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관직" target="이세영">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관직" target="이육">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관직" target="남">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관직" target="박건">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관직" target="채수">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관직" target="돌">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관직" target="김심">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관직" target="성세명">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관직" target="강숙">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관직" target="이세좌">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관직" target="안윤덕">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관직" target="이계남">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관직" target="잘못">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관직" target="이인형">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관직" target="이창신">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관직" target="윤필상">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관직" target="김영정">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관직" target="갈기">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="제수" target="손">
+  <data key="d1">51.0</data>
+</edge>
+<edge source="제수" target="부당">
+  <data key="d1">24.0</data>
+</edge>
+<edge source="제수" target="홍">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="제수" target="강">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="제수" target="귀">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="제수" target="장령">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="제수" target="유순">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="제수" target="숭">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="제수" target="윤">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="제수" target="김수동">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="제수" target="김">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="제수" target="지평">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="제수" target="노공필">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="제수" target="임">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="제수" target="김응기">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="제수" target="한치형">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="제수" target="건의">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="제수" target="남">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="제수" target="정언">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="제수" target="윤효">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="제수" target="민">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="제수" target="홍귀달">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="제수" target="박열">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="제수" target="신준">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="제수" target="김감">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="제수" target="송일">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="제수" target="돌">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="제수" target="개정">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="제수" target="성준">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="제수" target="박">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="제수" target="성현">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="제수" target="강숙">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="제수" target="이극균">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="제수" target="치원">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="제수" target="이승건">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="제수" target="자건">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="제수" target="안침">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="제수" target="부정">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="제수" target="허침">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="제수" target="정미수">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="제수" target="임사홍">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="제수" target="이세영">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="제수" target="이육">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="제수" target="박건">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="제수" target="체아직">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="제수" target="채수">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="제수" target="김심">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="제수" target="조형">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="제수" target="이계남">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="제수" target="안윤덕">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="제수" target="대간">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="제수" target="이인형">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="제수" target="이창신">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="제수" target="윤필상">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="제수" target="계동">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="태백성" target="낮">
+  <data key="d1">124.0</data>
+</edge>
+<edge source="태백성" target="경천">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="태백성" target="대낮">
+  <data key="d1">26.0</data>
+</edge>
+<edge source="태백성" target="햇무리">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="합사" target="대간">
+  <data key="d1">119.0</data>
+</edge>
+<edge source="합사" target="논계">
+  <data key="d1">34.0</data>
+</edge>
+<edge source="합사" target="죄">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="합사" target="사당">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="합사" target="신주">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="합사" target="손">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="합사" target="김효">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="합사" target="김순">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="합사" target="치례">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="합사" target="국문">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="합사" target="윤">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="합사" target="탕">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="합사" target="노사신">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="합사" target="강의">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="합사" target="가자">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="합사" target="장성">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="합사" target="승복">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="합사" target="사냥">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="합사" target="충인">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="합사" target="임금">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="합사" target="성준">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="합사" target="상소">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="합사" target="공신">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="합사" target="왕">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="합사" target="절">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="합사" target="구수영">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="사직">
+  <data key="d1">101.0</data>
+</edge>
+<edge source="대간" target="논계">
+  <data key="d1">66.0</data>
+</edge>
+<edge source="대간" target="노사신">
+  <data key="d1">56.0</data>
+</edge>
+<edge source="대간" target="국문">
+  <data key="d1">44.0</data>
+</edge>
+<edge source="대간" target="복직">
+  <data key="d1">42.0</data>
+</edge>
+<edge source="대간" target="상소">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="대간" target="죄">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="대간" target="윤">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="대간" target="홍문관">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="대간" target="탄핵">
+  <data key="d1">32.0</data>
+</edge>
+<edge source="대간" target="논박">
+  <data key="d1">31.0</data>
+</edge>
+<edge source="대간" target="서계">
+  <data key="d1">31.0</data>
+</edge>
+<edge source="대간" target="임사홍">
+  <data key="d1">31.0</data>
+</edge>
+<edge source="대간" target="손">
+  <data key="d1">31.0</data>
+</edge>
+<edge source="대간" target="탕">
+  <data key="d1">29.0</data>
+</edge>
+<edge source="대간" target="정문">
+  <data key="d1">29.0</data>
+</edge>
+<edge source="대간" target="가자">
+  <data key="d1">25.0</data>
+</edge>
+<edge source="대간" target="전교">
+  <data key="d1">25.0</data>
+</edge>
+<edge source="대간" target="김효">
+  <data key="d1">24.0</data>
+</edge>
+<edge source="대간" target="부당">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="대간" target="파직">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="대간" target="왕">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="대간" target="의논">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="대간" target="간언">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="대간" target="공신">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="대간" target="사당">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="대간" target="신주">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="대간" target="심미">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="대간" target="개정">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="대간" target="강">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="대간" target="치례">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="대간" target="성준">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="대간" target="승정원">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="대간" target="김순">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="대간" target="승지">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="대간" target="임">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="대간" target="잘못">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="대간" target="숭">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="대간" target="의정부">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="대간" target="경연">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="대간" target="강의">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="대간" target="임금">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="대간" target="건의">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="대간" target="승복">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="대간" target="장성">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="대간" target="윤채">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="대간" target="윤필상">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="대간" target="이종호">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="대간" target="판서">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="대간" target="사냥">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="대간" target="불경">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="대간" target="재의">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대간" target="정승">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대간" target="부인">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대간" target="장령">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대간" target="이조">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대간" target="충인">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대간" target="이세좌">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대간" target="논의">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대간" target="상차">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대간" target="유생">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대간" target="봉보">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대간" target="대사헌">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="대간" target="구수영">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="대간" target="변명">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="대간" target="용서">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="대간" target="의금부">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="대간" target="대신">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="대간" target="절">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="대간" target="언로">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="대간" target="육조">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="대간" target="이병정">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대간" target="유자광">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대간" target="이유">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대간" target="홍">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대간" target="재상">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대간" target="허락">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대간" target="부제학">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대간" target="한충">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대간" target="상고">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대간" target="임명">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대간" target="사면">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대간" target="공급">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대간" target="하옥">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대간" target="소금">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대간" target="김">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대간" target="병조">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대간" target="힐책">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대간" target="외척">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대간" target="홍백">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대간" target="증명서">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대간" target="김수동">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대간" target="가함">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대간" target="정미수">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대간" target="영의정">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대간" target="논쟁">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대간" target="수사">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대간" target="정지">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대간" target="가계">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대간" target="신수근">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대간" target="처벌">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="논핵">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="율">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="부처">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="비호">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="추국">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="직책">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="격론">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="뜻">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="신승선">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="어세겸">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="귀">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="대사간">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="논란">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="정숭조">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="사정">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="사간">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="이승건">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="상피">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="이극균">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="공양">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="청">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대간" target="의무">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사직" target="판서">
+  <data key="d1">25.0</data>
+</edge>
+<edge source="사직" target="복직">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="사직" target="휘">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="사직" target="우의정">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="사직" target="허락">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="사직" target="한치형">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="사직" target="민">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="사직" target="영의정">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="사직" target="노사신">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="사직" target="좌의정">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="사직" target="병조">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="사직" target="논박">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="사직" target="성준">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="사직" target="병">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="사직" target="종묘">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="사직" target="대사헌">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="사직" target="강">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="사직" target="심미">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="사직" target="제사">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="사직" target="탄핵">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="사직" target="손">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="사직" target="귀">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="사직" target="신수근">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="사직" target="이유">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="사직" target="이극돈">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="사직" target="승정원">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="사직" target="승지">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="사직" target="수영">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="사직" target="어세겸">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="사직" target="도승지">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="사직" target="의논">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="사직" target="신승선">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="사직" target="상소">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="사직" target="정언">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="사직" target="홍문관">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="사직" target="국문">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사직" target="예조">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사직" target="관찰사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사직" target="죄">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사직" target="참판">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="윤필상" target="의논">
+  <data key="d1">94.0</data>
+</edge>
+<edge source="윤필상" target="노사신">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="윤필상" target="성준">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="윤필상" target="이극균">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="윤필상" target="신승선">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="윤필상" target="야인">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="윤필상" target="죄">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="윤필상" target="이세좌">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="윤필상" target="처벌">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="윤필상" target="정문">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="윤필상" target="사건">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="윤필상" target="어세겸">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="윤필상" target="사초">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="윤필상" target="윤호">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="윤필상" target="아들">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="윤필상" target="논의">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="윤필상" target="김">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="윤필상" target="왜인">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="윤필상" target="족친">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="윤필상" target="국문">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="윤필상" target="하사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="윤필상" target="용서">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="윤필상" target="묘">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="정승">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="의논" target="야인">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="의논" target="이극균">
+  <data key="d1">24.0</data>
+</edge>
+<edge source="의논" target="어세겸">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="의논" target="성준">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="의논" target="죄">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="의논" target="처벌">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="의논" target="경연">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="의논" target="노사신">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="의논" target="신승선">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="의논" target="유순">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="의논" target="대신">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="의논" target="김">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="의논" target="여부">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="의논" target="한치형">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="의논" target="평안도">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="의논" target="상소">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="의논" target="의정부">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="의논" target="예조">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="의논" target="이세좌">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="의논" target="내용">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="의논" target="승정원">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="의논" target="대비">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="의논" target="손">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="의논" target="폐비">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="의논" target="정문">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="의논" target="병조">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="의논" target="신하">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="의논" target="왜인">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="의논" target="처리">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="의논" target="변방">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="의논" target="묘">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="의논" target="국문">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="의논" target="참여">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="의논" target="절도사">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="의논" target="변경">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="의논" target="동청">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="의논" target="윤호">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="의논" target="례">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="사관">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="이극돈">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="귀">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="난신">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="옥사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="간통">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="홍">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="판서">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="죄인">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="침범">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="윤채">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="육조">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="묘제">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="도주">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="허침">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="신주">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="관찰사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="중국">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의논" target="사신">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="탕" target="윤">
+  <data key="d1">81.0</data>
+</edge>
+<edge source="탕" target="논계">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="탕" target="죄">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="탕" target="불경">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="탕" target="자견">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="탕" target="권균">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="탕" target="노사신">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="탕" target="지평">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="탕" target="직첩">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="탕" target="윤채">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="탕" target="국문">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="탕" target="조형">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="탕" target="불충">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="탕" target="손">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="윤" target="죄">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="윤" target="손">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="윤" target="논계">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="윤" target="지평">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="윤" target="탄">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="윤" target="효손">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="윤" target="자견">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="윤" target="불경">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="윤" target="권균">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="윤" target="견">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="윤" target="국문">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="윤" target="노사신">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="윤" target="철">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="윤" target="금">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="윤" target="내용">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="윤" target="최부">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="윤" target="서용">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="윤" target="공초">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="윤" target="직첩">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="윤" target="윤채">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="윤" target="부당">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="윤" target="정언">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="윤" target="승진">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="윤" target="불충">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="윤" target="조형">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="윤" target="사초">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="윤" target="사건">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="윤" target="석보">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="윤" target="폐비">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="윤" target="내관">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="귀" target="손">
+  <data key="d1">75.0</data>
+</edge>
+<edge source="귀" target="강">
+  <data key="d1">68.0</data>
+</edge>
+<edge source="귀" target="판서">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="귀" target="승지">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="귀" target="국문">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="귀" target="신수근">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="강">
+  <data key="d1">71.0</data>
+</edge>
+<edge source="손" target="김순">
+  <data key="d1">44.0</data>
+</edge>
+<edge source="손" target="내관">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="손" target="논계">
+  <data key="d1">33.0</data>
+</edge>
+<edge source="손" target="치례">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="손" target="국문">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="손" target="죄">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="손" target="김효">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="손" target="지평">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="손" target="신주">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="손" target="사당">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="손" target="윤효">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="손" target="사간">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="손" target="장령">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="손" target="곤장">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="손" target="승지">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="손" target="정언">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="손" target="이병정">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="손" target="사헌부">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="손" target="건의">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="손" target="판서">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="손" target="전교">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="손" target="대사헌">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="손" target="김">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="손" target="안윤">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="손" target="금">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="손" target="조윤">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="손" target="돈">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="손" target="강학">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="손" target="의금부">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="손" target="신수근">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="손" target="대신">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="손" target="유순">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="손" target="탄">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="손" target="성준">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="손" target="태">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="손" target="홍">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="손" target="대사간">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="손" target="처벌">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="손" target="승진">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="노사신">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="부인">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="철">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="권인">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="송일">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="부당">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="최부">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="심문">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="조형">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="노공필">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="팽">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="잘못">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="간관">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="왕">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="상차">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="제주">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="윤희">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="상소">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="김준">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="손" target="경연">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="강" target="김효">
+  <data key="d1">26.0</data>
+</edge>
+<edge source="강" target="장령">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="강" target="국문">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="강" target="겸">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="강" target="판서">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="강" target="대사헌">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="강" target="승지">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="강" target="경서">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="강" target="신수근">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="강" target="당상">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="논계" target="지평">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="논계" target="치례">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="논계" target="구수영">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="논계" target="신주">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="논계" target="사당">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="논계" target="김순">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="논계" target="정언">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="논계" target="장령">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="논계" target="대사헌">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="논계" target="홍">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="논계" target="대사간">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="논계" target="권균">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="논계" target="승복">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="논계" target="노사신">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="논계" target="채수">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="논계" target="자견">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="논계" target="부인">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="논계" target="김효">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="논계" target="이병정">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="논계" target="봉보">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="논계" target="철">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="논계" target="백경">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="논계" target="응룡">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="논계" target="정문">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="논계" target="이원">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="논계" target="청풍군">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="논계" target="사헌부">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="논계" target="주금">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="논계" target="서극">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="논계" target="자건">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="논계" target="조옥">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="논계" target="정환">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="논계" target="돈">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="논계" target="이효">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="논계" target="김영정">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="논계" target="침">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="논계" target="나뭇갓">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="논계" target="강의">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="논계" target="권주">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="논계" target="윤채">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="논계" target="인사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="논계" target="사간">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="논계" target="죄">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사당" target="신주">
+  <data key="d1">65.0</data>
+</edge>
+<edge source="사당" target="김순">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="사당" target="치례">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="사당" target="상소">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="사당" target="서계">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="사당" target="대사헌">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="사당" target="폐비">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="사당" target="노사신">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="사당" target="정언">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="사당" target="이세걸">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="사당" target="박처">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="사당" target="홍문관">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사당" target="개정">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="신주" target="김순">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="신주" target="치례">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="신주" target="상소">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="신주" target="폐비">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="신주" target="서계">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="신주" target="대사헌">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="신주" target="노사신">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="신주" target="정언">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="신주" target="박처">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="신주" target="이세걸">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="신주" target="개정">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="신주" target="홍문관">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="중국" target="사신">
+  <data key="d1">63.0</data>
+</edge>
+<edge source="중국" target="잔치">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="중국" target="전교">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="중국" target="접대">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="중국" target="승정원">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="중국" target="조정">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="중국" target="제도">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="중국" target="축하">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사신" target="잔치">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="사신" target="일본국">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="사신" target="유구">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="사신" target="접대">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="사신" target="예조">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="사신" target="승정원">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="사신" target="인정전">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="사신" target="전교">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="사신" target="모화관">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="사신" target="접견">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="사신" target="국왕">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사신" target="일본">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사신" target="왕">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="경연" target="상참">
+  <data key="d1">59.0</data>
+</edge>
+<edge source="경연" target="전교">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="경연" target="홍문관">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="경연" target="조참">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="경연" target="상소">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="경연" target="강목">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="경연" target="왕">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="경연" target="부제학">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="경연" target="윤대">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="경연" target="통감강목">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="경연" target="정지">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="경연" target="내용">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="경연" target="승정원">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="경연" target="이승건">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="경연" target="몸">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="경연" target="참석">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="경연" target="장령">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="경연" target="사헌부">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="경연" target="논의">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="경연" target="제기">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="경연" target="시강관">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="경연" target="조계">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="경연" target="대신">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="경연" target="이유">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="경연" target="폐지">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="상참" target="조계">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="면포" target="필">
+  <data key="d1">57.0</data>
+</edge>
+<edge source="면포" target="대내">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="면포" target="제용감">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="면포" target="정포">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="면포" target="값">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="면포" target="사섬시">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="면포" target="쌀">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="면포" target="대궐">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="면포" target="호조">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="면포" target="대군">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="면포" target="제급">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="면포" target="진주">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="면포" target="내전">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="면포" target="진상">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="면포" target="월산">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="면포" target="박">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="면포" target="대비">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="면포" target="백면포">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="면포" target="징수">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="필" target="대내">
+  <data key="d1">57.0</data>
+</edge>
+<edge source="필" target="제용감">
+  <data key="d1">31.0</data>
+</edge>
+<edge source="필" target="정포">
+  <data key="d1">29.0</data>
+</edge>
+<edge source="필" target="저사">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="필" target="내전">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="필" target="수사">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="필" target="사복시">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="필" target="수주">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="필" target="전교">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="필" target="대궐">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="필" target="호조">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="필" target="사섬시">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="필" target="값">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="필" target="백저포">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="필" target="진상">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="필" target="궐내">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="필" target="백면포">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="필" target="숙마">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="필" target="다홍">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="필" target="내관">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="필" target="하사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대내" target="제용감">
+  <data key="d1">33.0</data>
+</edge>
+<edge source="대내" target="석">
+  <data key="d1">29.0</data>
+</edge>
+<edge source="대내" target="쌀">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="대내" target="정포">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="대내" target="포">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="대내" target="풍저창">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="대내" target="호초">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="대내" target="사섬시">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="대내" target="물품">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="대내" target="근">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대내" target="멥쌀">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대내" target="사도시">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대내" target="수주">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대내" target="베">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대내" target="저사">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대내" target="백면포">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대내" target="섬">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대내" target="백저포">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대내" target="갱미">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대내" target="대비">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="노사신" target="죄">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="노사신" target="서계">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="노사신" target="신승선">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="노사신" target="탄핵">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="노사신" target="홍문관">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="노사신" target="상소">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="노사신" target="국문">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="노사신" target="영의정">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="노사신" target="장령">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="노사신" target="불경">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="노사신" target="간언">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="노사신" target="정숭조">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="노사신" target="처단">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="노사신" target="정언">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="노사신" target="대사헌">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="노사신" target="사헌부">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="노사신" target="자건">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="노사신" target="비난">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="노사신" target="권주">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="노사신" target="한훈">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="노사신" target="한치형">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="노사신" target="치례">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="노사신" target="윤호">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="노사신" target="부자">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="쌀" target="석">
+  <data key="d1">54.0</data>
+</edge>
+<edge source="쌀" target="풍저창">
+  <data key="d1">24.0</data>
+</edge>
+<edge source="쌀" target="하사">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="쌀" target="대비">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="쌀" target="수사">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="쌀" target="응방">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="쌀" target="콩">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="쌀" target="대군">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="쌀" target="월산">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="쌀" target="섬">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="쌀" target="박">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="쌀" target="호조">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="쌀" target="값">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="쌀" target="본궁">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="쌀" target="신">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="쌀" target="장흥">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="쌀" target="경창">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="석" target="풍저창">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="석" target="수사">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="석" target="중미">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="석" target="호초">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="석" target="멥쌀">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="석" target="대비">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="석" target="사도시">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="석" target="하사">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="석" target="호조">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="석" target="콩">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="석" target="전교">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="석" target="내전">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="석" target="갱미">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="석" target="대군">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="석" target="대궐">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="석" target="본궁">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="홍문관" target="부제학">
+  <data key="d1">48.0</data>
+</edge>
+<edge source="홍문관" target="상소">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="홍문관" target="국문">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="홍문관" target="관원">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="홍문관" target="차자">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="홍문관" target="직제학">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="홍문관" target="이승건">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="홍문관" target="홍">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="홍문관" target="유생">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="홍문관" target="성세명">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="홍문관" target="정지">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="홍문관" target="수공">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="홍문관" target="응교">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="홍문관" target="건의">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="홍문관" target="대신">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="홍문관" target="홍한">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="홍문관" target="파직">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="홍문관" target="왕">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="홍문관" target="전교">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="홍문관" target="승지">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="홍문관" target="사찰">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="홍문관" target="술">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="홍문관" target="가함">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="홍문관" target="간언">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="홍문관" target="서계">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="홍문관" target="최진">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="홍문관" target="잘못">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="홍문관" target="불가">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="홍문관" target="교리">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="홍문관" target="상차">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="부제학" target="이승건">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="부제학" target="상소">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="부제학" target="성세명">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="부제학" target="최진">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="부제학" target="홍">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="부제학" target="차자">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="곤장" target="내관">
+  <data key="d1">47.0</data>
+</edge>
+<edge source="곤장" target="김">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="곤장" target="침">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="곤장" target="박수원">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="곤장" target="유배">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="곤장" target="당직청">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="곤장" target="계경">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="내관" target="태">
+  <data key="d1">31.0</data>
+</edge>
+<edge source="내관" target="김">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="내관" target="김인">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="내관" target="처벌">
+  <data key="d1">26.0</data>
+</edge>
+<edge source="내관" target="장죄">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="내관" target="벌">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="내관" target="당직청">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="내관" target="고신">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="내관" target="태죄">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="내관" target="죄">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="내관" target="박">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="내관" target="호우">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="내관" target="박유">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="내관" target="황량">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="내관" target="박수원">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="내관" target="침">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="내관" target="국문">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="내관" target="충군">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="내관" target="정역">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="내관" target="계경">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="내관" target="김영진">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="내관" target="속호">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="내관" target="전헌">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="내관" target="문치">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="내관" target="전교">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="내관" target="형장">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="내관" target="승지">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="내관" target="서온">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="내관" target="밀위청">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="내관" target="결">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="내관" target="장치">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="내관" target="서수진">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="내관" target="제주">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="내관" target="김자원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="내관" target="김순">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="내관" target="의금부">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="내관" target="조지서">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="내관" target="설충">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="김순" target="치례">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="김순" target="이병정">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="김순" target="제주">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="국문" target="관원">
+  <data key="d1">25.0</data>
+</edge>
+<edge source="국문" target="지평">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="국문" target="승지">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="국문" target="죄">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="국문" target="의금부">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="국문" target="성준">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="국문" target="사헌부">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="국문" target="유자광">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="국문" target="이극균">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="국문" target="장령">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="국문" target="김">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="국문" target="이세좌">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="국문" target="홍">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="국문" target="전교">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="국문" target="익명서">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="국문" target="청">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="국문" target="병조">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="국문" target="정언">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="국문" target="송일">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="국문" target="내용">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="국문" target="박">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="국문" target="의정부">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="국문" target="대사헌">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="국문" target="상소">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="국문" target="족친">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="국문" target="관리">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="국문" target="최부">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="국문" target="부당">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="국문" target="수령">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="국문" target="조지서">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="국문" target="숭">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="국문" target="승정원">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="국문" target="별감">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="국문" target="사냥">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="국문" target="건의">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="국문" target="허락">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="국문" target="사건">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="국문" target="불법">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="국문" target="무례">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="국문" target="김효">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="국문" target="김종직">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="국문" target="거짓">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="국문" target="첩">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="국문" target="관찰사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="국문" target="정원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="국문" target="간통">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="국문" target="정승">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="국문" target="운평">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="국문" target="악">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="국문" target="유순">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="국문" target="정성근">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="국문" target="간원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="철거" target="인가">
+  <data key="d1">43.0</data>
+</edge>
+<edge source="철거" target="밑">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="철거" target="경복궁">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="철거" target="성">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="인가" target="근처">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="인가" target="대궐">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="인가" target="궁궐">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="인가" target="성터">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="인가" target="담">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="임" target="숭">
+  <data key="d1">43.0</data>
+</edge>
+<edge source="임" target="재의">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="임" target="재">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="임" target="재와">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="임" target="치원">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="임" target="남">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="임" target="증명서">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="임" target="원위">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="임" target="풍">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="임" target="임사홍">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="숭" target="박">
+  <data key="d1">33.0</data>
+</edge>
+<edge source="숭" target="재의">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="숭" target="재">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="숭" target="재와">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="숭" target="덕">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="숭" target="남">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="숭" target="치원">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="숭" target="허침">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="숭" target="증명서">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="숭" target="유순">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="숭" target="원위">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="숭" target="풍">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="숭" target="임사홍">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사초" target="사건">
+  <data key="d1">42.0</data>
+</edge>
+<edge source="사초" target="내용">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="사초" target="공초">
+  <data key="d1">26.0</data>
+</edge>
+<edge source="사초" target="김일손">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="사초" target="연루">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="사초" target="기록">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="사초" target="이목">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사초" target="관련자">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사초" target="연루자">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사초" target="김종직">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사건" target="내용">
+  <data key="d1">24.0</data>
+</edge>
+<edge source="사건" target="공초">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="사건" target="연루">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="사건" target="관련자">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="사건" target="김일손">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사건" target="연루자">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사건" target="포상">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="내용" target="공초">
+  <data key="d1">42.0</data>
+</edge>
+<edge source="내용" target="김일손">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="내용" target="김종직">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="내용" target="기록">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="내용" target="실록">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="내용" target="송일">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="내용" target="홍">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="내용" target="승지">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="내용" target="유인">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="내용" target="이목">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="내용" target="조의제문">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="공초" target="김일손">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="공초" target="김종직">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="공초" target="실록">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="공초" target="기록">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="정승" target="죄">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="정승" target="전교">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="정승" target="승지">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="상소" target="대사헌">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="상소" target="사헌부">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="상소" target="유자광">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="상소" target="박처">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="상소" target="죄">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="상소" target="성종">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="상소" target="아들">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="상소" target="사간원">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="상소" target="유교">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="상소" target="아비">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="상소" target="공신">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="상소" target="잘못">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="상소" target="심미">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="상소" target="유생">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="상소" target="대사간">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="상소" target="승정원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="민" target="휘">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="민" target="효증">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="민" target="대사간">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="민" target="관찰사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="민" target="대사헌">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="민" target="함경도">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="휘" target="대사간">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="휘" target="대사헌">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="병조" target="판서">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="병조" target="건의">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="병조" target="성준">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="병조" target="야인">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="병조" target="계동">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="병조" target="이극돈">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="병조" target="참판">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="병조" target="군사">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="병조" target="평안도">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="병조" target="절도사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="병조" target="전교">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="병조" target="임사홍">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="판서" target="예조">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="판서" target="호조">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="판서" target="성준">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="판서" target="이세좌">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="판서" target="이극돈">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="판서" target="계동">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="판서" target="야인">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="판서" target="임사홍">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="판서" target="이계남">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="판서" target="허침">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="판서" target="허락">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="판서" target="논박">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="판서" target="노공필">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="판서" target="성현">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="판서" target="병">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="판서" target="형조">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="판서" target="건의">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="판서" target="유순">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="운평" target="악">
+  <data key="d1">39.0</data>
+</edge>
+<edge source="운평" target="광희">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="운평" target="각도">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="운평" target="연방원">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="운평" target="간택">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="운평" target="청악">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="운평" target="처벌">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="운평" target="전교">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="운평" target="재주">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="운평" target="주악">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="운평" target="흥청">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="운평" target="대비">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="운평" target="청">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="운평" target="상복">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="운평" target="가흥">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="악" target="계평">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="악" target="광희">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="악" target="전교">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="악" target="가흥">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="악" target="청악">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="악" target="홍">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="악" target="재주">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="승지">
+  <data key="d1">33.0</data>
+</edge>
+<edge source="죄" target="죄수">
+  <data key="d1">31.0</data>
+</edge>
+<edge source="죄" target="김">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="죄" target="결">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="죄" target="의금부">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="죄" target="전옥서">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="죄" target="전교">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="죄" target="이점">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="죄" target="김효">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="죄" target="강의">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="죄" target="처벌">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="죄" target="이극균">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="죄" target="용서">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="죄" target="삼복">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="죄" target="대사헌">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="죄" target="흥청">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="죄" target="성준">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="죄" target="승정원">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="죄" target="유순">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="죄" target="이세좌">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="죄" target="연좌">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="죄" target="장죄">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="죄" target="사헌부">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="죄" target="죄인">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="죄" target="강삼">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="죄" target="율">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="죄" target="정언">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="죄" target="응현">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="장순손">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="족친">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="잘못">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="첩">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="한훈">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="변방">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="군">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="한치형">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="아내">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="처단">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="관계">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="절">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="소금">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="공급">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="누설">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="지평">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄" target="능지">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="월산" target="대군">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="월산" target="박">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="월산" target="물품">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="월산" target="아내">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="월산" target="하사">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="월산" target="부인">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="월산" target="처">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="월산" target="잘못">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="월산" target="장령">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대군" target="제안">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="대군" target="박">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="대군" target="물품">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="대군" target="하사">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="대군" target="아내">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="대군" target="처">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대군" target="부인">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대군" target="장령">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대군" target="영응">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대군" target="창녕">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대군" target="잘못">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="야인" target="평안도">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="야인" target="절도사">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="야인" target="성준">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="야인" target="관찰사">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="야인" target="침범">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="야인" target="논의">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="야인" target="건주위">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="야인" target="어세겸">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="야인" target="변경">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="야인" target="치계">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="야인" target="이극균">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="야인" target="왜인">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="야인" target="신승선">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="야인" target="건의">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="본국" target="토산물">
+  <data key="d1">36.0</data>
+</edge>
+<edge source="토산물" target="마주">
+  <data key="d1">32.0</data>
+</edge>
+<edge source="토산물" target="일본">
+  <data key="d1">26.0</data>
+</edge>
+<edge source="토산물" target="태수">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="토산물" target="대마도">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="토산물" target="일본국">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="토산물" target="사자">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="토산물" target="익성">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="토산물" target="조신">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="토산물" target="평">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="지평" target="돈">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="지평" target="권세">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="지평" target="정환">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="지평" target="부당">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="지평" target="신종">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="지평" target="최부">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="지평" target="강숙">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="지평" target="방">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="지평" target="이효">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="지평" target="돌">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="지평" target="응룡">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="지평" target="홍">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="지평" target="건의">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="지평" target="유령">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="지평" target="인사">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="지평" target="잘못">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="지평" target="사헌부">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="지평" target="구수영">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="지평" target="동청">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="지평" target="정언">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="지평" target="개정">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="지평" target="최해">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="지평" target="허정">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="지평" target="조호">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="지평" target="신복">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="지평" target="백경">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="지평" target="김효">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="지평" target="박원종">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="지평" target="권주">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="지평" target="김">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="지평" target="철">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="지평" target="윤은보">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="지평" target="탄">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="지평" target="조형">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="지평" target="복의">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="지평" target="공">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="지평" target="가함">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="지평" target="나뭇갓">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="지평" target="자견">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="지평" target="숙생">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="지평" target="견">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="지평" target="청풍군">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="지평" target="이원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="지평" target="유자광">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="지평" target="김치원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="지평" target="정광">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="지평" target="례의">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="잔치" target="대비">
+  <data key="d1">34.0</data>
+</edge>
+<edge source="잔치" target="종친">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="잔치" target="인정전">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="잔치" target="참여">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="잔치" target="왕">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="잔치" target="기생">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="잔치" target="하사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="잔치" target="족친">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="잔치" target="경회루">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="잔치" target="물품">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="잔치" target="공궤">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대비" target="진연">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="대비" target="대행">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="대비" target="공궤">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="대비" target="족친">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="대비" target="경복궁">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대비" target="백관">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대비" target="본궁">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대비" target="탄일">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="대비" target="거행">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="대비" target="인수">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="대비" target="대왕">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대비" target="참배">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대비" target="전교">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대비" target="어소">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대비" target="경회루">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대비" target="예조">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대비" target="진상">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대비" target="의정부">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="박" target="허침">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="박" target="아내">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="박" target="처">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="박" target="유순">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="박" target="하사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="박" target="부인">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="승지" target="강혼">
+  <data key="d1">29.0</data>
+</edge>
+<edge source="승지" target="죄수">
+  <data key="d1">29.0</data>
+</edge>
+<edge source="승지" target="권균">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="승지" target="송일">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="승지" target="제시">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="승지" target="이점">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="승지" target="화답">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="승지" target="시">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="승지" target="전옥서">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="승지" target="감독">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="승지" target="율시">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="승지" target="김">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="승지" target="건의">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="승지" target="김감">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="승지" target="신수근">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="승지" target="박열">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="승지" target="형신">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="승지" target="전교">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="승지" target="하사">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="승지" target="삼복">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="승지" target="유인">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="승지" target="장순손">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="승지" target="강삼">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="승지" target="홍">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="승지" target="익명서">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="승지" target="허집">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="승지" target="사관">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="승지" target="인">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="승지" target="윤순">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="승지" target="정원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="승지" target="뜻">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="승지" target="절구">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="승지" target="균">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="제용감" target="정포">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="제용감" target="물품">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="제용감" target="포">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="제용감" target="값">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="탄핵" target="변명">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="탄핵" target="장령">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="마주" target="태수">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="마주" target="익성">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="마주" target="사자">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="논박" target="장령">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄수" target="전옥서">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="죄수" target="이점">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="죄수" target="강삼">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="죄수" target="김">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="죄수" target="삼복">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="태" target="김인">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="태" target="황량">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="태" target="박유">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="동청" target="례">
+  <data key="d1">31.0</data>
+</edge>
+<edge source="동청" target="례의">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="동청" target="정언">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="동청" target="조호">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="동청" target="이사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="동청" target="자건">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="동청" target="공">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="례" target="정언">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="례" target="이사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="례" target="자건">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="례" target="공">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="서계" target="대사헌">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="서계" target="표">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="서계" target="정언">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="서계" target="임사홍">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="서계" target="연말">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="임사홍" target="가자">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="임사홍" target="이세준">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="임사홍" target="개정">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="임사홍" target="홍">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="임사홍" target="간관">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="화답" target="제시">
+  <data key="d1">31.0</data>
+</edge>
+<edge source="화답" target="정원">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="화답" target="절구">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="화답" target="시">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="화답" target="강혼">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="화답" target="승정원">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="제시" target="승정원">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="제시" target="차운">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="제시" target="강혼">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="제시" target="정원">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="제시" target="절구">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="제시" target="시">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="제시" target="뜻">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="연말" target="표">
+  <data key="d1">30.0</data>
+</edge>
+<edge source="연말" target="차자">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="표" target="차자">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="돌" target="강숙">
+  <data key="d1">29.0</data>
+</edge>
+<edge source="소금" target="공급">
+  <data key="d1">29.0</data>
+</edge>
+<edge source="소금" target="절">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="소금" target="부당">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="소금" target="강의">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="소금" target="김효">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="공급" target="절">
+  <data key="d1">25.0</data>
+</edge>
+<edge source="공급" target="부당">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="공급" target="강의">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="공급" target="김효">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="강혼" target="시">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="강혼" target="율시">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="강혼" target="뜻">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="강혼" target="여원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="정포" target="면">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="정포" target="대궐">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="정포" target="호조">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="정문" target="봉보">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="정문" target="부인">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="정문" target="김효">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="강의" target="김효">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="강의" target="절">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="김효" target="절">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="장령" target="조형">
+  <data key="d1">27.0</data>
+</edge>
+<edge source="장령" target="자건">
+  <data key="d1">25.0</data>
+</edge>
+<edge source="장령" target="잘못">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="장령" target="김">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="장령" target="철">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="장령" target="서극">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="장령" target="부당">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="장령" target="정언">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="장령" target="천령">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="장령" target="겸">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="장령" target="숙근">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="장령" target="장리">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="장령" target="달선">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="장령" target="수사">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="장령" target="침">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="장령" target="조순">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="장령" target="정인">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="장령" target="위차">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="장령" target="주금">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="장령" target="이세인">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="장령" target="송">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="장령" target="김인후">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="장령" target="허락">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="장령" target="건의">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="장령" target="사냥">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="장령" target="양희">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="장령" target="문">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="장령" target="이조">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="장령" target="심순">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="조형" target="자건">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="조형" target="조순">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="조형" target="정언">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="김" target="천령">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="김" target="제신">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="김" target="계종">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="김" target="계경">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="김" target="속호">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="김" target="취인">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="김" target="양보">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="김" target="극회">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="김" target="건의">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="김" target="심문">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="김" target="아들">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="김" target="대사간">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="김" target="입묘">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="김" target="승복">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="김" target="확">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="절" target="부당">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="건의" target="의정부">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="건의" target="예조">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="건의" target="입거">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="건의" target="개정">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="건의" target="승정원">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="건의" target="형조">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="건의" target="대사간">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="건의" target="정언">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="건의" target="설치">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="건의" target="대신">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="건의" target="수령">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="건의" target="제조">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="건의" target="정지">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="건의" target="사헌부">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="건의" target="응룡">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="건의" target="중지">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="건의" target="이극균">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="건의" target="한치형">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="건의" target="경상도">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="건의" target="성준">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="김인" target="처벌">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="김인" target="태죄">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="봉보" target="부인">
+  <data key="d1">26.0</data>
+</edge>
+<edge source="봉보" target="족친">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="부인" target="족친">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="처벌" target="지관">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="처벌" target="옹">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="처벌" target="황량">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="처벌" target="연좌">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="처벌" target="율">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="처벌" target="죄인">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="처벌" target="박유">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="처벌" target="문치">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="처벌" target="잉태">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="처벌" target="이세좌">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="처벌" target="무역">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="가흥" target="청">
+  <data key="d1">25.0</data>
+</edge>
+<edge source="가흥" target="뇌">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="가흥" target="영원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="청" target="의정부">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="청" target="홍">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="청" target="승정원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관원" target="연방원">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관원" target="예문관">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관원" target="상의원">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관원" target="홍문">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관원" target="품">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관원" target="칠언">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="가자" target="공신">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="가자" target="개정">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="전교" target="승정원">
+  <data key="d1">25.0</data>
+</edge>
+<edge source="전교" target="수사">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="전교" target="사냥">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="전교" target="금표">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="전교" target="의정부">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="전교" target="왕">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="전교" target="임금">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="전교" target="법">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="전교" target="신하">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="전교" target="제조">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="전교" target="죄인">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="전교" target="사복시">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="전교" target="거둥">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="전교" target="길">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="전교" target="사헌부">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="전교" target="누설">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="전교" target="호조">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="전교" target="시위">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="전교" target="몸">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="전교" target="제사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="전교" target="대궐">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="승정원" target="왕">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="승정원" target="시">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="승정원" target="술">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="승정원" target="차운">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="승정원" target="말기">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="승정원" target="절구">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="승정원" target="율시">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="승정원" target="논의">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="승정원" target="사냥">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="승정원" target="공궤">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="자건" target="정언">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="자건" target="양희">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="자건" target="조순">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="자건" target="도승지">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="자건" target="서용">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="이극균" target="성준">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="이극균" target="유순">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="이극균" target="이세좌">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="이극균" target="평안도">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="이극균" target="경변">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="이극균" target="족친">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="이극균" target="한치형">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="이극균" target="이장곤">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="이극균" target="우의정">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="이극균" target="관찰사">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="이극균" target="형신">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="이극균" target="병">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="이극균" target="천거">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="수사" target="노비">
+  <data key="d1">24.0</data>
+</edge>
+<edge source="수사" target="장리">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="수사" target="소속">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="수사" target="잘못">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="수사" target="호조">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="수사" target="사복시">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="수사" target="위차">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="수사" target="관사">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="수사" target="이속">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="수사" target="의정부">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="수사" target="서제">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="수사" target="중미">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="노비" target="하사">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="노비" target="관사">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="노비" target="소속">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="노비" target="송사">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="노비" target="이속">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="노비" target="잡역">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="부당" target="승진">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="부당" target="간관">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="부당" target="자견">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="부당" target="철">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="풍저창" target="응방">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="김영정" target="대사헌">
+  <data key="d1">23.0</data>
+</edge>
+<edge source="김영정" target="대사간">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="대사헌" target="홍">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="대사헌" target="김심">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="대사헌" target="흥">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="대사헌" target="성현">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대사헌" target="잘못">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대사헌" target="이계남">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대사헌" target="공신">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대사헌" target="권경희">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대사헌" target="대사간">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대사헌" target="사문">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="대사헌" target="차자">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대사헌" target="김경조">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="치례" target="이병정">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="치례" target="사헌부">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="치례" target="권균">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="성준" target="좌의정">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="성준" target="한치형">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="성준" target="허락">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="성준" target="유순">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="성준" target="우의정">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="성준" target="병">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="성준" target="당상">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="돈" target="이효">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="돈" target="신종">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="돈" target="권세">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="돈" target="홍">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="돈" target="백경">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="잘못" target="장리">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="잘못" target="정언">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="잘못" target="위차">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="잘못" target="유자광">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="잘못" target="진상">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="잘못" target="윤은보">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="잘못" target="권세">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="잘못" target="의정부">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="잘못" target="대사간">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="잘못" target="인사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="장리" target="위차">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="흠" target="송">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="송" target="여해">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="송" target="정언">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="송" target="천희">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="홍" target="백경">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="홍" target="유인">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="홍" target="흥">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="홍" target="사간">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="홍" target="첩">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="홍" target="자아">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="홍" target="이효">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="홍" target="공신">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="홍" target="인사">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="홍" target="송일">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="홍" target="식">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="홍" target="석필">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="백경" target="이효">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="물품" target="하사">
+  <data key="d1">22.0</data>
+</edge>
+<edge source="물품" target="각도">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="물품" target="진상">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="하사" target="김감">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="하사" target="술">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="하사" target="장흥">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="하사" target="신">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="하사" target="부부">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="하사" target="곡식">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="권균" target="자견">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="권균" target="박열">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="권균" target="형신">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="권균" target="익명서">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="권균" target="도승지">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="권균" target="감독">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="어세겸" target="좌의정">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="어세겸" target="신승선">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="어세겸" target="한치형">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="어세겸" target="이극돈">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="평안도" target="절도사">
+  <data key="d1">21.0</data>
+</edge>
+<edge source="평안도" target="관찰사">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="평안도" target="조양">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="평안도" target="지진">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="평안도" target="방비">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="평안도" target="등지">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="절도사" target="조양">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="절도사" target="수군">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="절도사" target="왜적">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="절도사" target="병마">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="절도사" target="치계">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="절도사" target="전라도">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="절도사" target="영안">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="절도사" target="방비">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="절도사" target="북">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="절도사" target="함경도">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="하례" target="백관">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="하례" target="망궐례">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="하례" target="인정전">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="백관" target="인정전">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="백관" target="망궐례">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="백관" target="왕">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="백관" target="빈전">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="백관" target="축하">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="백관" target="탄일">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="송일" target="관찰사">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="송일" target="유인">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관찰사" target="경상도">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="관찰사" target="경기">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="관찰사" target="함경도">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="관찰사" target="치계">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="관찰사" target="강원도">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="관찰사" target="전라도">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="관찰사" target="팔">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="관찰사" target="진상">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="관찰사" target="충청도">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관찰사" target="유시">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관찰사" target="수령">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="관찰사" target="각도">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관찰사" target="박원종">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="이승건" target="공신">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="공신" target="가계">
+  <data key="d1">20.0</data>
+</edge>
+<edge source="공신" target="흥">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="공신" target="의정부">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="공신" target="적장">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="공신" target="배향">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="가계" target="흥">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="제신" target="입묘">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="값" target="진주">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="값" target="제급">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="값" target="시가">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="값" target="숙용">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="값" target="금표">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="진연" target="공궤">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="진연" target="의정부">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="왕" target="사냥">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="왕" target="제사">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="왕" target="인정전">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="왕" target="구경">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="왕" target="사열">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="왕" target="헌신">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="왕" target="곡림">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="왕" target="병">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="왕" target="힐책">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="왕" target="참배">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="왕" target="예조">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="왕" target="활쏘기">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대행" target="시호">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="구수영" target="제조">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="구수영" target="응룡">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="구수영" target="나뭇갓">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="예조" target="참판">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="예조" target="제사">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="예조" target="왜인">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="예조" target="왕후">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="예조" target="이세좌">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="예조" target="김감">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="뇌" target="영원">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="유순" target="영의정">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="유순" target="허침">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="유순" target="심문">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="영의정" target="한치형">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="영의정" target="이극배">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="영의정" target="신승선">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="형신" target="익명서">
+  <data key="d1">19.0</data>
+</edge>
+<edge source="형신" target="의심">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="형신" target="밀위청">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="형신" target="죄인">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="익명서" target="의심">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="익명서" target="죄인">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="익명서" target="고발">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="권세" target="신종">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="한치형" target="좌의정">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="한치형" target="우의정">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="의금부" target="심문">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="의금부" target="당상">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="의금부" target="이세좌">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="의금부" target="죄인">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의금부" target="율">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="성균관" target="유생">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="성균관" target="생원">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="성균관" target="사학">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="유생" target="사학">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="유생" target="추국">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="결채" target="역">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="결채" target="기인">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="결채" target="부역">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="결채" target="면제">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="진주" target="제급">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="경상도" target="지진">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="경상도" target="치계">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="경상도" target="전라도">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대궐" target="호조">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="대궐" target="물건">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대궐" target="저사">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="대궐" target="호초">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대궐" target="근">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="호조" target="이계남">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="호조" target="참판">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="심미" target="이종호">
+  <data key="d1">16.0</data>
+</edge>
+<edge source="심미" target="체아">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="옹" target="지관">
+  <data key="d1">18.0</data>
+</edge>
+<edge source="옹" target="손세">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="옹" target="황량">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="지관" target="황량">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="의정부" target="육조">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="의정부" target="전지">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="의정부" target="정지">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="의정부" target="당상">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="효증" target="함경도">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="경기" target="감사">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="경기" target="진상">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="경기" target="금표">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사냥" target="중지">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="사냥" target="군사">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="사냥" target="밤">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="사냥" target="정지">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="사냥" target="충인">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="사냥" target="임금">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="사냥" target="대사간">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사냥" target="아차산">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사냥" target="박원종">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="개정" target="공안">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="개정" target="정숭조">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="개정" target="정언">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="심순" target="문">
+  <data key="d1">17.0</data>
+</edge>
+<edge source="심순" target="정언">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="문" target="무과">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="문" target="경서">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="문" target="담">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="문" target="정언">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="태수" target="익성">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="태수" target="사자">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="유인" target="첩">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="사헌부" target="피혐">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="정언" target="공">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="정언" target="이사">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="정언" target="조순">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="정언" target="남곤">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="정언" target="조옥">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="정언" target="철">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="정언" target="한훈">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="정언" target="홍윤덕">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="정언" target="정숭조">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="정언" target="탄">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="정언" target="곤이">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="정언" target="이세걸">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="정언" target="정침">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="정언" target="최부">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="정언" target="남">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="정언" target="손세">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="정언" target="윤은보">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="정언" target="유자광">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="정언" target="사간원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="흥" target="청악">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="정환" target="박원종">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사간" target="의무">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="이종호" target="체아">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="시" target="뜻">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="시" target="술">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="시" target="정원">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="공궤" target="경복궁">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="서극" target="철">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="서극" target="주금">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="철" target="견">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="철" target="정침">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="철" target="가함">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="철" target="주금">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="철" target="충">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="철" target="김치원">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="철" target="탄">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="철" target="최부">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="신종" target="탐오">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="수근" target="비">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="수근" target="전향">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="비" target="전향">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="저사" target="다홍">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="탄" target="견">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="탄" target="최부">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="차자" target="박처">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="잡역" target="면제">
+  <data key="d1">15.0</data>
+</edge>
+<edge source="면제" target="부역">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="이점" target="전옥서">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="참판" target="형조">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="참판" target="안침">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="서방" target="정벌">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="서방" target="변경">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="유령" target="방">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="공" target="이사">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="공" target="우윤">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="일본국" target="사자">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대사간" target="이균">
+  <data key="d1">13.0</data>
+</edge>
+<edge source="대사간" target="숙기">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="제사" target="종묘">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="제사" target="문소전">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="제사" target="영소">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대신" target="논의">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="최부" target="견">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="자순" target="왕대비">
+  <data key="d1">14.0</data>
+</edge>
+<edge source="응방" target="좌">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="응방" target="제조">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="겸" target="신수">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="겸" target="임유">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="기인" target="부역">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="육조" target="당상">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="김일손" target="납">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="김일손" target="기록">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사복시" target="제조">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="유자광" target="진상">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="부관" target="참시">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="첩" target="딸">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="이세좌" target="제조">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="이세좌" target="방문">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="이세좌" target="아들">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="이세좌" target="귀양">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="이세좌" target="친족">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="김감" target="도승지">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="각도" target="봉진">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="각도" target="상납">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="각도" target="진상">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="각도" target="수령">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="각도" target="감사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="각도" target="배정">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="장흥" target="신">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="장흥" target="부부">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="신" target="부부">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="조참" target="조하">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="번개" target="천둥">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="번개" target="뇌성">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="번개" target="우박">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="번개" target="밤">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="천둥" target="우박">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="병" target="핑계">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="병" target="의원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="병" target="사임">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="이원" target="청풍군">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="유교" target="성종">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="성종" target="승하">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="연방원" target="제조">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="김치원" target="정침">
+  <data key="d1">12.0</data>
+</edge>
+<edge source="김치원" target="가함">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="김치원" target="간관">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="정침" target="가함">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="정침" target="간관">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="견성" target="사">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="견성" target="창건">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="사" target="창건">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="제조" target="도감">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="제조" target="선공감">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="제조" target="장악원">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="제조" target="국장">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="도감" target="수리">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="도감" target="국장">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="장성" target="가함">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="사자" target="익성">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="인정전" target="책">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="간택" target="청악">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="감사" target="수령">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="감사" target="경상">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="윤채" target="정진">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="형제" target="부모">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="부모" target="청악">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="부모" target="상">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="부모" target="흥청">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="남" target="치원">
+  <data key="d1">11.0</data>
+</edge>
+<edge source="남" target="혜">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="남" target="재와">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="치원" target="재와">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="율시" target="칠언">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="천과" target="흥청">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="천과" target="청악">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="폐비" target="묘">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="폐비" target="상고">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="효사" target="묘">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="견" target="이철">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="전지" target="형조">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="논의" target="입묘">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="논의" target="김종직">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="족친" target="죄인">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="족친" target="왕후">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="노공필" target="김응기">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="입주" target="입묘">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="조옥" target="곤이">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="조옥" target="곤">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="죄인" target="유배">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="죄인" target="추국">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="죄인" target="연좌">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="호초" target="섬">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="군사" target="입직">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="진상" target="월령">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="진상" target="물건">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="경복궁" target="곡연">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="수군" target="왜적">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="밤" target="유성">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="부정" target="사종">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="이조" target="관리">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="금표" target="리">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="금표" target="계동">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="금표" target="백성">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="금표" target="설치">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="김종직" target="조의제문">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="김종직" target="문집">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="생원" target="조유">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="목사" target="제주">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="빈전" target="진향">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="동철" target="무역">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="무역" target="양곡">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="무역" target="왜인">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="술" target="풍악">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="칠언" target="뜻">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="부" target="외지">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="복세" target="암">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="복세" target="연굴">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="복세" target="박원종">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="암" target="연굴">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="암" target="박원종">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="망궐례" target="동지">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="용도" target="절약">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="거둥" target="장단">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="거둥" target="모화관">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="거둥" target="개성부">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="성세" target="순">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="연굴" target="박원종">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="창건" target="사찰">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="창건" target="불가">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="나례" target="구경">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="구경" target="종친">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="구경" target="농사">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="구경" target="후원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="구경" target="활쏘기">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="연좌" target="난신">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="정지" target="참배">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="관사" target="이속">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="이극" target="규">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="충청도" target="지진">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="지진" target="등지">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="지진" target="서울">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="지진" target="고을">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="체아" target="내시">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="잡인" target="출입">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="담" target="밑">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="담" target="후원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="박원종" target="간관">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="박원종" target="이맥">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="공양" target="부처">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="공양" target="증명서">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="부처" target="증명서">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="우윤" target="한성부">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="한성부" target="판윤">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="조호" target="례의">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="남천" target="군">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="남천" target="쟁">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="군" target="쟁">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="금주" target="령">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="아들" target="아비">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="혜" target="안전">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="이세준" target="간관">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="왜인" target="제포">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="처리" target="송사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사열" target="군대">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="취" target="춘원">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="수령" target="불법">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="수령" target="감찰">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="수령" target="고을">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="종친" target="활">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="종친" target="재상">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="종친" target="문안">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="종친" target="활쏘기">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="섬" target="궐내">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="목책" target="설치">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="궁중" target="누설">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="누설" target="비밀">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="이장곤" target="천거">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="능" target="참배">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="모화관" target="시험">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="시험" target="활쏘기">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="근" target="소목">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="경계" target="하늘">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="조지서" target="정성근">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="우도" target="경상">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="경상" target="전라">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="통행" target="금지">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="금지" target="구역">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="금지" target="길">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="배척" target="불교">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="팽" target="동의">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="팽" target="간관">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="팽" target="김수">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="동의" target="간관">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="동의" target="김수">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="김수" target="간관">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="간관" target="이승원">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="상고" target="전례">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="처사" target="능지">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="사면" target="반포">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="세자" target="책봉">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="별감" target="련">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="별감" target="김두">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="헌" target="권">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="백성" target="구휼">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="절목" target="마련">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="졸기" target="부원군">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="졸기" target="지중추부사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="총" target="풍정">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="산" target="만세">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="베" target="무명">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="후원" target="활쏘기">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="활쏘기" target="무신">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="이봉" target="이항">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="활" target="경회루">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="외척" target="등용">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="결장" target="감시">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="번역" target="언문">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="서쪽" target="길">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="상피" target="부자">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="상피" target="조원기">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="돈녕" target="부사">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="사찰" target="건립">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="사찰" target="불가">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="이철" target="견이">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="잉태" target="지아비">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="봉교" target="예문관">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="축하" target="성절">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="축하" target="동지중추부사">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="북경" target="동지중추부사">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="숙생" target="헌납">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="정청" target="상">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="동교" target="농사">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="농사" target="관람">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="정창손" target="명회">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="탄생" target="원자">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="대마" target="도주">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="해" target="쇄환">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="인재" target="등용">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="시사" target="비방">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="기상" target="이변">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="평" target="김언">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="천재" target="지변">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="련" target="김두">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="원위" target="풍">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="서득" target="관">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="영" target="사전">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="김석철" target="김윤제">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="재산" target="적몰">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="부수" target="경양">
+  <data key="d1">5.0</data>
+</edge>
+</graph></graphml>
